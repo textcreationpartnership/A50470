@@ -1,0 +1,1515 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rhachitidologia, or, A tract of the disease rhachitis, commonly called the rickets shewing the signes, cause, symptoms, and prognosticks : together with a most accurate and ingenious method of cure / written originally in Latin ... by ... Dr. John Mayow ... and now ... faithfully rendred into English by W.S. ; to which is subjoyn'd a profitable appendix, touching weights and measures us'd in the composition of medicines and exhibition of medicinal doses.</title>
+            <author>Mayow, John, 1641-1679.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 109 KB of XML-encoded text transcribed from 78 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50470</idno>
+            <idno type="STC">Wing M1534</idno>
+            <idno type="STC">ESTC R43442</idno>
+            <idno type="EEBO-CITATION">27646114</idno>
+            <idno type="OCLC">ocm 27646114</idno>
+            <idno type="VID">110147</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50470)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110147)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1729:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rhachitidologia, or, A tract of the disease rhachitis, commonly called the rickets shewing the signes, cause, symptoms, and prognosticks : together with a most accurate and ingenious method of cure / written originally in Latin ... by ... Dr. John Mayow ... and now ... faithfully rendred into English by W.S. ; to which is subjoyn'd a profitable appendix, touching weights and measures us'd in the composition of medicines and exhibition of medicinal doses.</title>
+                  <author>Mayow, John, 1641-1679.</author>
+               </titleStmt>
+               <extent>[22], 100, [2], 17, [11] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by L.L. for Th. Fickus,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First word of title printed in Greek letters.</note>
+                  <note>"An Appendix touching weights and measures us'd in the composition of medicines ..." has separate paging and special t.p. with imprint: Oxford, 1684.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rickets --  England --  Early works to 1800.</term>
+               <term>Bones --  Diseases --  Early works to 1800.</term>
+               <term>Pharmacy --  Weights and measures --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:110147:1"/>
+                  <p>Ρ'ΑΧΙΤΙΔΟΛΟΓΙΑ OR A Tract of the Diſeaſe <hi>RHACHITIS</hi> Commonly called the RICKETS.</p>
+                  <p>Shewing the Signes, Cauſe, Symptoms, and Prognoſticks: Together with a moſt accurate and ingenious Method of CURE.</p>
+                  <p>Written originally in Latin, (according to a new-framed <hi>Hypotheſis</hi>) by that moſt learned Philo<g ref="char:EOLhyphen"/>ſopher, and Famous Phyſician, Dr. <hi>John May<g ref="char:EOLhyphen"/>ow,</hi> late Fellow of <hi>All-Souls-Coll.</hi> in the Aca<g ref="char:EOLhyphen"/>demy of OXON.</p>
+                  <p>And now (for the <hi>Benefit</hi> of his Coun<g ref="char:EOLhyphen"/>try-men) faithfully rendred into Engliſh.</p>
+                  <p>By <hi>W. S.</hi>
+                  </p>
+                  <p>To which is ſubjoyn'd a profitable Appendix, touch<g ref="char:EOLhyphen"/>ing <hi>WEIGHTS</hi> and <hi>MEASURES</hi> us'd in the Compoſition of Medicines and exhibiti<g ref="char:EOLhyphen"/>on of Medicinal Doſes.</p>
+                  <p>
+                     <hi>OXFORD,</hi> Printed by L. L. for <hi>Th. Fickus.</hi> 1685</p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:110147:2"/>
+                  <pb facs="tcp:110147:2"/>
+                  <head>TO The moſt Vigilant, Induſtrious and Expert MIDWIFE M<hi rend="sup">rs</hi>. <hi>MARY COOMES,</hi> the Tranſlator Wiſheth all Happineſs.</head>
+                  <opener>
+                     <salute>Worthy Patroneſs!</salute>
+                  </opener>
+                  <p>IT was an inviolable De<g ref="char:EOLhyphen"/>cree among the <hi>Aegyp<g ref="char:EOLhyphen"/>tians,</hi> that every Phyſitian ſhould have but one Diſeaſe for his Province; whereby is meant, that he was to employ his utmoſt Induſtry,
+<pb facs="tcp:110147:3"/>in order to improve his Fa<g ref="char:EOLhyphen"/>culty for the good of Man<g ref="char:EOLhyphen"/>kind: And now adays too, it is ſo far from being thought an <hi>Abſurdity</hi> ſo to do, that the beſt of Profeſſors are not aſhamed (but eſteem it re<g ref="char:EOLunhyphen"/>quiſite and highly conduci<g ref="char:EOLhyphen"/>ble) to make a particular Scrutiny into the knowledge of ſome one Diſtemper, e<g ref="char:EOLhyphen"/>minently above others, ac<g ref="char:EOLhyphen"/>cording to the Inclination of their natural Genius.</p>
+                  <p>Our learned Author is not herein to be excepted; for albeit he was a perſon of ex<g ref="char:EOLhyphen"/>tenſive parts, and was bleſt
+<pb facs="tcp:110147:3"/>with a more than ordinary Capacity; yet did he ſigna<g ref="char:EOLhyphen"/>lize his Practice by a more particular Enquiry into the true Cauſe and Cure of the RICKETS, an af<g ref="char:EOLhyphen"/>ter long Obſervation and Experience (that others might reap advantage from his Labours and Study,) publiſhed a Tract of this Diſeaſe: I having peruſed the ſame and well weighed what was written, I was heartily ſolicitous to com<g ref="char:EOLhyphen"/>municate it in our Mother-Tongue, to Poſterity, that it might become more ge<g ref="char:EOLhyphen"/>nerally
+<pb facs="tcp:110147:4"/>uſeful, and diffuſive to the Intelligence of ſuch as have the Care of Children, and particularly to <hi>Mid<g ref="char:EOLhyphen"/>wives</hi> who ought to be of good Underſtanding, and to abound with great Noti<g ref="char:EOLhyphen"/>on relating to Medicines ex<g ref="char:EOLhyphen"/>hibited to Children, touch<g ref="char:EOLhyphen"/>ing whoſe Infirmities it is a moſt uſual thing to have recourſe to them.</p>
+                  <p>Now having (by the Di<g ref="char:EOLhyphen"/>vine Aſſiſtance) compleat<g ref="char:EOLhyphen"/>ed this Undertaking, I did after mature Deliberation, think fit to make a Dedica<g ref="char:EOLhyphen"/>tion of this ſmall Treatiſe to
+<pb facs="tcp:110147:4"/>you, having ſo great eſteem for you, that I bluſh not to acquaint the World in ſhort, that in what you Profeſs, appertaining either to Wo<g ref="char:EOLhyphen"/>men or Children, (before, or in, or after the Birth,) you are ſo well Experienc'd, Dextrous and truly Judici<g ref="char:EOLhyphen"/>ous, that you may be juſtly ſtyled, the <hi>Oxonian L<g ref="char:V">Ʋ</g>
+                        <g ref="char:EOLhyphen"/>CINA,</hi> or <hi>Compleat Mid<g ref="char:EOLhyphen"/>wife,</hi> What I have done as to the Appendix of Weights and Meaſures, I nowiſe doubt but the ſame will prove more delightful and ſatisfactory, than what in the
+<pb facs="tcp:110147:5"/>Writings of any other Eng<g ref="char:EOLhyphen"/>liſh Author is yet extant. So commiting the ſame to your Patronage, I ſubſcribe my ſelf</p>
+                  <closer>
+                     <signed>Yours in all Sincerity WILLIAM S<g ref="char:V">Ʋ</g>RY.</signed>
+                  </closer>
+               </div>
+               <div type="to_the_reader">
+                  <pb facs="tcp:110147:5"/>
+                  <pb facs="tcp:110147:6"/>
+                  <pb facs="tcp:110147:6"/>
+                  <head>TO THE READER.</head>
+                  <p>THoſe Things w<hi rend="sup">ch</hi> are truly Glor<g ref="char:EOLhyphen"/>ious &amp; highly Divine, do mani<g ref="char:EOLhyphen"/>feſt this one grand Proof of their Ex<g ref="char:EOLhyphen"/>cellency, in that they continue perpe<g ref="char:EOLhyphen"/>tually Immutable, not being ſubject to Alteration. Now whereas this is a very great Perfection, and to enjoy a long and proſperous Life is a ſuperexcellent or ſurmounting and ſupreme Good; juſtly then, and not without cauſe do thoſe Creatures, which are in a mortal State aſpire thereat, and naturally deſire to Be, and to Live. But ſince they cannot wholly and abſolutely attain this;
+<pb facs="tcp:110147:7"/>yet thus much have they acquired' <hi>viz.</hi> to have, in ſome reſpect, a Per<g ref="char:EOLhyphen"/>petual being; not in Number, but in <hi>Species,</hi> which abideth ever. For which reaſon, the Birth and Procreation of Living Creatures are continuated by immutable Eternity, that what cannot be preſerved in ſingular Subſtance, might at leaſt perſevere in <hi>Species.</hi> For it falls out on neceſſity, that every Individ<g ref="char:EOLhyphen"/>ual, whereas it perceives it ſelf to be mortal and diſſoluble, wiſheth to reſerve ſomething in its own Simili<g ref="char:EOLhyphen"/>tude, in its ſtead; in as much as in ſome degree it comforteth Languid and Declining Age, and by which as it were growing young and freſh again, it is in a manner perpetuated and made permanent. Hence ari<g ref="char:EOLhyphen"/>ſeth that Luſt or Deſire of Begetting, which Nature hath imparted to all
+<pb facs="tcp:110147:7"/>Living Creatures, that their <hi>Spe<g ref="char:EOLhyphen"/>cies</hi> might be forever preſerved. Which being premiſed, we come next to conſider, that as we want the abſolute Perfection (in this hu<g ref="char:EOLhyphen"/>mane State) of Immortality; So like<g ref="char:EOLhyphen"/>wiſe we are deprived of the benefit of conſtant Vigour, Strength and Sanity, which not only Decaying Age gradually ſupervening, but a numerous Hoſt of Diſeaſes too, (which Sin hath intail'd upon the Race of <hi>Adam</hi>) ſufficiently confirm. If therefore we reſpect &amp; ponder the Advantage, Force and Faculties of all Arts, none will be found more excellent, more worthy, or more to be wiſhed for by the ſons of men, than that of Phyſick; which (as the learned <hi>Fernelius</hi> defines) <hi>Eſt Ars ad humani corporis Sanitatem tuendam, profligandoſque mor<g ref="char:EOLhyphen"/>bos,
+<pb facs="tcp:110147:8"/>comparata.</hi> It is an Art or<g ref="char:EOLhyphen"/>dained to preſerve the Health of mans body, and to profligate Diſea<g ref="char:EOLhyphen"/>ſes. This great gift hath the Infi<g ref="char:EOLhyphen"/>nite Being, out of his boundleſs mercy beſtowed on mankind, that, as he hath been pleaſed to neceſſitate a continuation of the Species, ſo alſo this Temporal Life might not be al<g ref="char:EOLhyphen"/>together burthenſome; but by a ſea<g ref="char:EOLhyphen"/>ſonable Application of ſuitable Re<g ref="char:EOLhyphen"/>medies, all Diſeaſes and Dolors (from the Cradle to the Crutch) whether Internal or External, might be cured or at leaſt alleviated.</p>
+                  <p>Certainly then whatever is writ<g ref="char:EOLhyphen"/>ten on this Subject <hi>viz. Medicine,</hi> (preſuppoſing it to be rationally de<g ref="char:EOLhyphen"/>duced from the Fountains of Lear<g ref="char:EOLhyphen"/>ning and Experience) it muſt on neceſſity prove acceptable; and that worthy old Adage, <hi>Bonu<g ref="char:cmbAbbrStroke">̄</g> quò com<g ref="char:EOLhyphen"/>munius
+<pb facs="tcp:110147:8"/>eò melius,</hi> affords us a good and profitable Plea for <hi>Tranſ<g ref="char:EOLhyphen"/>lation.</hi> For why ſhould any thing that tends to a general Advantage, be hid from Vulgar Apprehenſi<g ref="char:EOLhyphen"/>on, Knowledge being the moſt de<g ref="char:EOLhyphen"/>lightful and commodious thing in na<g ref="char:EOLhyphen"/>ture. Tis undoubtedly great Pity that a Secret ſhould be ſecured and fettered by the Padlock of a forraign Language, whereas the ſame being uſhered into the World by a <hi>Mother-Tongue,</hi> might arrive to ſome wonderful Improvement, and dif<g ref="char:EOLhyphen"/>fuſe it ſelf to the utmoſt Limits of Chriſtian Charity. That Author merits but ſmall commendation, who reſpecting more his proper Praiſe, than the common Good of Man-kind, emits a Tract into the World, grudg<g ref="char:EOLhyphen"/>ing his Works to be read by any o<g ref="char:EOLhyphen"/>thers, then ſuch as ſhall (being
+<pb facs="tcp:110147:9"/>book-learned themſelves) admire his Eloquence, and honour him with the Title of a <hi>Learned Man.</hi> Such a one (in my Opinion) is like to the <hi>Sun</hi> obnubilated, yielding moſt Light where there is leaſt need of it. Tho a perſon of great Learning deems it a kind of Treſpaſs on his Parts, ſo much to debaſe himſelf, as to com<g ref="char:EOLhyphen"/>mit his endeavours to publick View in an inferiour Language; yet, if ſome other is pleaſed to render the ſame eaſy to the Apprehenſion of a Multitude, which before was co<g ref="char:cmbAbbrStroke">̄</g>modious but to few; it not only not derogates from the Authors Credit, but alſo may enrich the <g ref="char:V">Ʋ</g>nderſtand<g ref="char:EOLhyphen"/>ing of many a one, whoſe aſpiring <hi>Genius,</hi> otherwiſe perhaps might grow Languid, for want of a Re<g ref="char:EOLhyphen"/>cruit.</p>
+                  <p>A Judicious Brain is not heredi<g ref="char:EOLhyphen"/>tary
+<pb facs="tcp:110147:9"/>to a <hi>Graecian</hi> or <hi>Latiniſt</hi> only. Various Examples of men famous in <hi>Phyſick,</hi> the <hi>Mathematicks,</hi> yea moſt Arts and Sciences, who never were grounded in any but their Mo<g ref="char:EOLhyphen"/>ther-Tongue, may be produced. Not being a Linguiſt, proves a man to be a meer Ignoramus; no more than the <hi>Language of the Beaſt,</hi> infers a good Concluſion to think or ſay, every one, that knows it, to be a <hi>Cicero.</hi>
+                  </p>
+                  <p>In truth, the Veneration I have always had for Charitable Intenti<g ref="char:EOLhyphen"/>ons, was the ſtrongeſt Motive that urged and inur'd me to this Enter<g ref="char:EOLhyphen"/>prize. And we are bound to confeſs, (whatever praejudicial Spirits dare depoſe to the contrary) that Man<g ref="char:EOLhyphen"/>kind can rarely be obliged with a more acceptable piece of Service, then that of reducing one Language into another.</p>
+                  <pb facs="tcp:110147:10"/>
+                  <p>If therefore this noble Medicinal Art infer ſo great Commodity and Delectation; if likewiſe, (as I have made it apparent) from <hi>Tranſlati<g ref="char:EOLhyphen"/>on</hi> ſo great Improvement accrew to moſt men, and (as I may boldly ſay) to all Nations; here mayeſt thou, Reader! divert thy Apprehenſion, and improve thy Knowledge, not with a mean, but remarkable and late diſcovery; <hi>viz.</hi> An Inveſtiga<g ref="char:EOLhyphen"/>tion of a Diſtemper called the RICKETS, incident to Babes and Infants only, whoſe Tenderneſs and Immaturity of Age and <g ref="char:V">Ʋ</g>nder<g ref="char:EOLhyphen"/>ſtanding, as they impede the Ex<g ref="char:EOLhyphen"/>ploration and Diſquiſition of the Diſeaſes Origine, ſo likewiſe add difficulty to to the Cure. The famous Author (when living, much admired for his profound Knowledg, and ſe<g ref="char:EOLhyphen"/>cure Judgment) amongſt his moſt
+<pb facs="tcp:110147:10"/>ingenious Philoſophical Tracts, which largly recommend his Worth, hath pitched upon a Scrutiny of this Eiſeaſe in all its parts <hi>Diagnoſtick, Prognoſtick</hi> and <hi>Therapeutick,</hi> as well <hi>Pharmaceutical</hi> as <hi>Chirur<g ref="char:EOLhyphen"/>gical.</hi> To be brief, this Tract may juſtly bear the Title of <hi>Gemma Me<g ref="char:EOLhyphen"/>dica,</hi> the Glory of whoſe Splendour the moſt Nebulous Aſpect of frown<g ref="char:EOLhyphen"/>ing <hi>Zoilus,</hi> connot diminiſh or obumbrate. His <hi>Hypotheſis,</hi> touching the Crookedneſs of the Bones is undeniable, and not to be parallel<g ref="char:EOLhyphen"/>ed, by the braveſt <hi>Aeſculapius</hi> this refined Age can produce.</p>
+                  <p>Accept hereof (kind Reader!) with as much Candour, as I have with Chearfulneſs Tranſlated it, and in ſo doing, thou wilt highly recom<g ref="char:EOLhyphen"/>pence me for my Pains, and encou<g ref="char:EOLhyphen"/>rage me to Publiſh ſomething elſe
+<pb facs="tcp:110147:11"/>ſhortly, which will not be leſs worthy thy peruſal. In the mean time Farewell, and enjoy theſe Fruits of my Labour, which will tend both to thy Pleaſure and Profit.</p>
+                  <closer>
+                     <signed>Thine in all honeſt Endeavours W. S.</signed>
+                  </closer>
+               </div>
+               <div type="errata">
+                  <pb facs="tcp:110147:11"/>
+                  <head>ERRATA.</head>
+                  <p>PAge 26, Line 16. for 1. r. 2. p, 35. l. 17. r. <hi>grow not only.</hi> p. 35. l. 22. for <hi>inflicted,</hi> r. <hi>inflected.</hi> p. 47. l. 15. for <hi>to,</hi> r. <hi>too.</hi> p. 64. l. 14. for <hi>affect.</hi> r. <hi>effect.</hi> p. 75. l. 13. for <hi>half an Ounce,</hi> r. <hi>half a Dram.</hi> p. 76. l. 6. for <hi>a Scru<g ref="char:EOLhyphen"/>ple,</hi> r. <hi>half a Scruple,</hi> p. 90. l. 14. for <hi>efer'd,</hi> r. <hi>refer'd.</hi>
+                  </p>
+               </div>
+               <div type="diagrams">
+                  <pb facs="tcp:110147:12"/>
+                  <p>
+                     <figure>
+                        <p>
+                           <label>fig. 1.</label>
+                        </p>
+                     </figure>
+                  </p>
+                  <p>
+                     <figure>
+                        <p>
+                           <label>fig. 2.</label>
+                        </p>
+                     </figure>
+                  </p>
+                  <p>
+                     <figure>
+                        <p>
+                           <label>fig. 3.</label>
+                        </p>
+                     </figure>
+                  </p>
+                  <p>
+                     <figure>
+                        <p>
+                           <label>fig 4.</label>
+                        </p>
+                     </figure>
+                  </p>
+                  <p>
+                     <figure>
+                        <p>
+                           <label>fig 5</label>
+                        </p>
+                     </figure>
+                  </p>
+                  <p>
+                     <figure>
+                        <p>
+                           <label>fig. 6.</label>
+                        </p>
+                     </figure>
+                  </p>
+                  <p>
+                     <figure>
+                        <p>
+                           <label>fig 7</label>
+                        </p>
+                     </figure>
+                  </p>
+                  <p>
+                     <figure>
+                        <p>
+                           <label>fig. 8.</label>
+                        </p>
+                     </figure>
+                  </p>
+                  <p>
+                     <figure>
+                        <p>
+                           <label>fig 9</label>
+                        </p>
+                     </figure>
+                  </p>
+                  <p>
+                     <figure>
+                        <p>
+                           <label>fig 10</label>
+                        </p>
+                     </figure>
+                  </p>
+                  <p>
+                     <figure>
+                        <p>
+                           <label>fig. 11.</label>
+                        </p>
+                     </figure>
+                  </p>
+               </div>
+            </front>
+            <body>
+               <div type="tract">
+                  <pb n="1" facs="tcp:110147:12"/>
+                  <head>A Tract of the Diſeaſe <hi>RHACHITIS,</hi> commonly called the RICKETS</head>
+                  <div type="preface">
+                     <head>The Proeme.</head>
+                     <p>THe Renowned <hi>GLIS<g ref="char:EOLhyphen"/>SON</hi> is the onely man (as far as I know) who hath wrote any thing touching the <hi>Rickets:</hi> which may ſeem to be very ſtrange, ſince a Diſeaſe for the moſt part doth ſcarcely
+<pb n="2" facs="tcp:110147:13"/>ſpread ſo much as the ill habit of writing concerning it. And truly, ſo accurate a Treatiſe of this Diſeaſe lately ſet forth by Dr. <hi>Gliſſon,</hi> and the Authority of ſo great a man, might deter me from writing, did I not be<g ref="char:EOLhyphen"/>lieve him to be ſuch an one as would willingly pardon a lover of the Truth, tho now and then diſſenting from him. Yet where<g ref="char:EOLhyphen"/>as I am making haſt along with him to the ſame Goal, it muſt needs be that moſt an end I trace the ſame Footſteps. Wherefore by leave of ſo great a Perſon, I may lawfully repeat, (ſince it cannot be otherwiſe,) ſome things declared by him already.</p>
+                  </div>
+                  <div n="1" type="chapter">
+                     <pb n="3" facs="tcp:110147:13"/>
+                     <head>
+                        <hi>CHAP. I.</hi> Of the time when and Place where the Diſeaſe <hi>Rhachitis</hi> had its firſt Riſe, and who are moſt ſub<g ref="char:EOLhyphen"/>ject thereto.</head>
+                     <p>THis Diſeaſe had its firſt riſe in the Weſtern parts of <hi>England,</hi> above Forty years ago: But afterwards (as it is the cuſtome of Diſeaſes and evils to ſpread themſelves further) it in<g ref="char:EOLhyphen"/>feſted the Cradles of Infants, (but more ſeldome in the Nor<g ref="char:EOLhyphen"/>therne Countries, throughout all <hi>England.</hi>
+                     </p>
+                     <p>Therefore they are <hi>Infants</hi> who chiefly are ſick of this diſeaſe; and they are more frequently
+<pb n="4" facs="tcp:110147:14"/>vexed therewith, from the ſixth month after the Birth to the eigh<g ref="char:EOLhyphen"/>teenth, and from a year and a half to the end of two years and a half ſo that for the moſt part the time of its Invaſion, are thoſe two years which preſently enſue the age of ſix months from the Birth.</p>
+                  </div>
+                  <div n="2" type="chapter">
+                     <head>
+                        <hi>CHAP. II.</hi> Of the Signs or Symptoms of the Diſeaſe.</head>
+                     <p>THe <hi>Diagnoſis</hi> or knowledge of this Diſeaſe, (as of oth<g ref="char:EOLhyphen"/>ers,) doth depend upon the un<g ref="char:EOLhyphen"/>derſtanding of the Symptoms, which are theſe that follow.</p>
+                     <p n="1">1. The proportion of the parts
+<pb n="5" facs="tcp:110147:14"/>is irregular: <hi>viz.</hi> The <hi>Head</hi> big<g ref="char:EOLhyphen"/>ger than it ought to be.</p>
+                     <p n="2">2. The <hi>Face</hi> over-fat,</p>
+                     <p n="3">3. The <hi>Wit</hi> too acute in reſ<g ref="char:EOLhyphen"/>pect of the Age.</p>
+                     <p n="4">4. The external <hi>Members,</hi> chie<g ref="char:EOLhyphen"/>fly the muſculous, lean and ex<g ref="char:EOLhyphen"/>tenuated.</p>
+                     <p n="5">5. The <hi>Skin</hi> looſe and flagging.</p>
+                     <p n="6">6. The <hi>Bones</hi> for the moſt part bowed, and thoſe about the Joynts ſtanding out, and knot<g ref="char:EOLhyphen"/>ty.</p>
+                     <p n="7">7. The <hi>Spine</hi> or Back-bone is varioufly inflected.</p>
+                     <p n="8">8. The <hi>Breaſt</hi> is ſtraight or nar<g ref="char:EOLhyphen"/>row.</p>
+                     <p n="9">9. The Extremities of the <hi>Ribs</hi> knotty.</p>
+                     <p n="10">10. The <hi>Abdomen</hi> ſomewhat puffed up, and ſtretched out. Theſe things are outwardly ob<g ref="char:EOLhyphen"/>ſerved,
+<pb n="6" facs="tcp:110147:15"/>but inwardly.</p>
+                     <p n="11">11. The <hi>Liver</hi> is perceived o<g ref="char:EOLhyphen"/>ver-large; as alſo moſt of the <hi>Parenchymaes,</hi> or fleſhy ſubſtan<g ref="char:EOLhyphen"/>ces.</p>
+                     <p n="12">12. The <hi>Ventricle</hi> and <hi>Inteſt<g ref="char:EOLhyphen"/>ines</hi> riſe into a greater Bulk, than in thoſe who are ſound.</p>
+                     <p n="13">13. The <hi>Meſenterium</hi> is affect<g ref="char:EOLhyphen"/>ed with Glandules too great; if not with <hi>Srumae</hi> or Waddles.</p>
+                     <p>Theſe are the Symptoms with<g ref="char:EOLhyphen"/>in the <hi>Abdomen;</hi> within the breaſt,</p>
+                     <p n="14">14. The <hi>Lungs</hi> are diſcerned ſtuft and tumid; and the ſame ſometimes purulent, ſtrumous, and very often growing faſt to the <hi>Pleura.</hi>
+                     </p>
+                     <p n="15">15. The <hi>Jugular Veins,</hi> and <hi>Ca<g ref="char:EOLhyphen"/>rotid Arteries,</hi> are ſometimes found larger than their juſt pro<g ref="char:EOLhyphen"/>portion;
+<pb n="7" facs="tcp:110147:15"/>but the Brain is faulty only as to its Proportion and maſſy Bulk.</p>
+                     <p n="16">16. Laſtly, to theſe is added an <hi>Enervation</hi> of almoſt all the Parts; alſo a certain drowſineſs and Impatience of Labour and Exerciſe: For, the little Children cannot play, except ſitting, and with much ado can ſtand on their feet. And at laſt in the Pro<g ref="char:EOLhyphen"/>greſs of the Diſeaſe, the burthen of their Head, can hardly be ſuſt<g ref="char:EOLhyphen"/>ained by their weak neck.</p>
+                     <p>Theſe are the ſo many and ſo great Symptoms of this Malady: In the next place we muſt ſearch out what may be the fruitful (cauſe or miſchief of ſo numerous an off-ſpring.</p>
+                  </div>
+                  <div n="3" type="chapter">
+                     <pb n="8" facs="tcp:110147:16"/>
+                     <head>
+                        <hi>CHAP. III.</hi> Of the Cauſe of the Diſeaſe. That it conſiſteth not in the naughtineſs of the Blood; nor in the depraved conſtitution of the Parts.</head>
+                     <p>
+                        <hi>FIrſt,</hi> We ſuppoſe the <hi>Cauſe</hi> of this Diſeaſe not to conſiſt in the vitiated Influx of the blood, for ſo the whole maſs of blood would be corrupted, which ſince it is indifferently conveyed to e<g ref="char:EOLhyphen"/>very part, the more impure blood would affect all of them more or leſs; which notwith<g ref="char:EOLhyphen"/>ſtanding in this infirmity never happeneth: For the Head, as al<g ref="char:EOLhyphen"/>ſo the Bowels are well diſpoſed only more than uſually great;
+<pb n="9" facs="tcp:110147:16"/>yea, the very <hi>Parenchymaes</hi> which chiefly conſiſt of affuſed blood, whereas they are found very much like to thoſe of the Health<g ref="char:EOLhyphen"/>ful, they in like manner argue the blood to be good and lauda<g ref="char:EOLhyphen"/>ble. For it were abſurd to aſſert I know not what <hi>Elective attract<g ref="char:EOLhyphen"/>ion,</hi> whereby the head and bow<g ref="char:EOLhyphen"/>els well diſpoſed, do attract all the good blood, but ſend away the bad into other parts: For this Attraction, (were there any) would be from all parts alike, ſince to every part there is a con<g ref="char:EOLhyphen"/>gruity and neceſſity of good blood, which are thought to bring to paſs a motion of that kind.</p>
+                     <p>
+                        <hi>Secondly,</hi> we affirm the Foun<g ref="char:EOLhyphen"/>dation of that Affect, not to con<g ref="char:EOLhyphen"/>ſiſt in the depraved conſtitution
+<pb n="10" facs="tcp:110147:17"/>of the parts themſelves; as if the parts moleſted with frigid and moiſt Intemperature; were un<g ref="char:EOLhyphen"/>apt for receiving the Heart's in<g ref="char:EOLhyphen"/>flux: For, whence doth ariſe this ſo great an Humiditie and Coldneſs of ſome parts, in com<g ref="char:EOLhyphen"/>pariſon of the reſt, ſince all of them are irrigated with the like hot blood and ſpirits alike? For neither do I ſuppoſe the frigiditie innate to the parts, but to be preternaturally in them; neither truly muſt we believe the parts themſelves to withſtand their own nutrition. For thoſe ope<g ref="char:EOLhyphen"/>rate nothing in the Act of nutri<g ref="char:EOLhyphen"/>tion; but only receive the nu<g ref="char:EOLhyphen"/>triment brought to them by to<g ref="char:EOLhyphen"/>leration: So that I certainly be<g ref="char:EOLhyphen"/>lieve, there is no other unapt<g ref="char:EOLhyphen"/>neſs in the parts, whereby they
+<pb n="11" facs="tcp:110147:17"/>become not nouriſhed, except Obſtructions only, by means whereof they cannot take Ali<g ref="char:EOLhyphen"/>ment: Wherefore the cauſe of this Malady, cannot be in the conſtitution of the parts them ſelves; nor is it reaſonable to judge Humidity the cauſe of the diſeaſe, but rather the Effect.</p>
+                  </div>
+                  <div n="4" type="chapter">
+                     <head>
+                        <hi>CHAP. IV.</hi> That the Nerves as well as the Blood do help to nouriſh; and this diſ<g ref="char:EOLhyphen"/>eaſe doth peculiarly depend upon the defect of the Nervous Influx.</head>
+                     <p>HOwever whereas the parts are really Cold. and (tho largely ſupplied with blood good
+<pb n="12" facs="tcp:110147:18"/>enough) are not nouriſhed; We muſt altogether conclude that ſomething elſe beſides the blood alone, is requiſite to heat and nutrition. Whatſoever this be there is a neceſſity that it be car<g ref="char:EOLhyphen"/>ried through ſome of the Veſſels. The Arteries conveigh the blood, the Veins carry back that which is brought; and the Nerves only remain, which can conveigh the Liquor, or at leaſt nutritious ſpi<g ref="char:EOLhyphen"/>rits.</p>
+                     <p>But, that no man may doubt whether the Nerves carry any thing neceſſary to nutrition, I ſhall alleage an Experiment known to every body; to wit, if a Nerve ſerving to any part be cut off from it, not only the ſenſe of that part, but alſo all man<g ref="char:EOLhyphen"/>ner of nouriſhment, is utterity
+<pb n="13" facs="tcp:110147:18"/>loſt, inſomuch as the ſame for the time to come ſhall become as it were withered.</p>
+                     <p>But however, this nervous Li<g ref="char:EOLhyphen"/>quor alone doth not perform, the whole duty of nutrition. For be<g ref="char:EOLhyphen"/>ſides it, y<hi rend="sup">e</hi> blood diffus'd through the Arteries obtains not a ſmall part as to nouriſhing. For<g ref="char:EOLhyphen"/>aſmuch as the nervous juice be<g ref="char:EOLhyphen"/>ing mingled with the blood doth cauſe a certain Efferveſcence or Heat, whereupon the matter meet for the nouriſhing of the parts, is precipitated; and through the de<g ref="char:EOLhyphen"/>fect of this nervous liquor's in<g ref="char:EOLhyphen"/>flux, tho the blood in this af<g ref="char:EOLhyphen"/>fect be pretty laudable, yet wanting its due ferment, it is nei<g ref="char:EOLhyphen"/>ther available te excite due heat in the parts, nor to execute the office of Nutrition.</p>
+                  </div>
+                  <div n="5" type="chapter">
+                     <pb n="14" facs="tcp:110147:19"/>
+                     <head>
+                        <hi>CHAP. V.</hi> The Definition, or Deſcription of the <hi>Rhachitis,</hi> together with the Cauſe thereof: Wherein is ſhewed, that it proceeds not from the faultineſs of the Brain; but from the obſtruction of the ſpinal Marrow.</head>
+                     <p>FRom what hath been ſaid, we need not be affraid to affirm, that <hi>The RHACHITIS is a Diſeaſe, ariſing from the unequal diſtribution of the</hi> Nervous Liquor <hi>through the defect or ſuperabundance whereof, ſome Parts defrauded of Nutriment are attenuated, other parts being over-cloyed [therewith,] grow too bulky.</hi>
+                     </p>
+                     <pb n="15" facs="tcp:110147:19"/>
+                     <p>But this Vice of inequality conſiſts not in the Influx of the Brain; for, from this fountain being vitiated, meet nutriment would accrew to no part at all. and truly, the Head and other parts, which partake of the nerves that have their original from the Brain, do enjoy Nutri<g ref="char:EOLhyphen"/>ment laudable enough, tho in too great abudance; yet whereas thoſe Parts which have Nerves ſpringing from the <hi>spinalis Medulla,</hi> do become lean; it is certainly manifeſt, that altho in the brain, (as it were the publick ſtore-houſe, ſhop, or work-houſe of the whole body,) an increaſe or ſtore of vital ſpi<g ref="char:EOLhyphen"/>rits ample enough is elaborated; yet, the <hi>Spinalis medulla,</hi> as it were the Princely road or high<g ref="char:EOLhyphen"/>way
+<pb n="16" facs="tcp:110147:20"/>tending from that mart or empory is altogether overcharg<g ref="char:EOLhyphen"/>ed and incumbred by thick and glutinous humours, whereby the Paſſage for the nervous nutri<g ref="char:EOLhyphen"/>ment is blocked up: whence it cometh to paſs, that the Nerves which deſcend from the <hi>Spinal marrow,</hi> being deſtitute of that nutritious liquor, bring no aid at all to the languiſhing parts which they approach. Hence comes an <hi>Atrophy,</hi> and very great extenuation of thoſe parts. So at laſt 'tis reaſonable that we de<g ref="char:EOLhyphen"/>termine this to be the cauſe of this malady; and the rather, for that the reaſon of all the ſymptoms proper to this diſeaſe, may more clearly and eaſily be deriv'd from this Fountain, as fro<g ref="char:cmbAbbrStroke">̄</g> what follows ſhall be manifeſt.</p>
+                  </div>
+                  <div n="6" type="chapter">
+                     <pb n="17" facs="tcp:110147:20"/>
+                     <head>
+                        <hi>CHAP. VI.</hi> The Reaſon of the Symptoms, and firſt of the too great Augmenta<g ref="char:EOLhyphen"/>tion of the Head.</head>
+                     <p>IN this affect it falls out, that the head is increaſed to an unreaſonable bigneſs, which in<g ref="char:EOLhyphen"/>deed from our ſuppoſition muſt needs be: For the nutritious li<g ref="char:EOLhyphen"/>quor of the brain is wont in a great meaſure to be diſcharged on the <hi>Spinal Marrow;</hi> but that Paſſage now being ſtopped the whole is diſtributed to the nerves deſcended from the brain. Here<g ref="char:EOLhyphen"/>upon, whereas the head doth ac<g ref="char:EOLhyphen"/>quire too liberal an increaſe of nutriment from thoſe nerves tur<g ref="char:EOLhyphen"/>gid
+<pb n="18" facs="tcp:110147:21"/>with nutritious juice, it muſt on neceſſity be advanced to an ex<g ref="char:EOLhyphen"/>traordinary bigneſs. From this cauſe alſo, the countenance (in reſpect of the Age) is over-big and the wit too acute: for, as the ſpirits being exhauſted, do render us dull and languid; in like-manner; plenty thereof con<g ref="char:EOLhyphen"/>geſted in the brain, maketh us wiſe and witty.</p>
+                  </div>
+                  <div n="7" type="chapter">
+                     <head>
+                        <hi>CHAP. VII.</hi> Of the ſwelling or puffing up of the <hi>Abdomen.</hi>
+                     </head>
+                     <p>THe inward Parts of the Ab<g ref="char:EOLhyphen"/>domen are wont for the moſt part to exceed their juſt pro<g ref="char:EOLhyphen"/>portion: there is indeed the like
+<pb n="19" facs="tcp:110147:21"/>reaſon or cauſe for this, as there is for the ſymptoms of the head; For tis very certain, that theſe <hi>Plexus</hi> or foldings of ſo many nerves, ſerving to the lower moſt belly, (as chiefly of the <hi>Wandring Pair</hi> and <hi>Intercoſtal Nerves,</hi>) are the Ofl, ſpring of thoſe which are deſcended from the Brain: That now it is no wonder, if the afore<g ref="char:EOLhyphen"/>ſaid <hi>Viſcera,</hi> enjoying more plen<g ref="char:EOLhyphen"/>tiful nouriſhment brought unto them by the ſaid nerves, do grow larger. For altho the <hi>Intercoſtal Nerves</hi> receive Branches from the <hi>ſpinalis medulla,</hi> ſuch as can bring unto them no nutritious Liquor, yet, that too liberal influx of the brain doth abundantly recom<g ref="char:EOLhyphen"/>penſe for this defect.</p>
+                     <p>As for the <hi>Liver,</hi> and the reſt of the <hi>Parenchymaes,</hi> which ſeem
+<pb n="20" facs="tcp:110147:22"/>principally to conſiſt of affuſed blood, the <hi>nervous juice</hi> perhaps is not ſo neceſſary for their nu<g ref="char:EOLhyphen"/>trition: yet, whereas the Muſ<g ref="char:EOLhyphen"/>cles of the <hi>Abdomen</hi> ſpread over them, have nerves from the <hi>Spi<g ref="char:EOLhyphen"/>nalis medulla,</hi> which certainly can bring no nutriment from that dried fountain, hence it comes to paſs that the <hi>Viſcera</hi> or Bowels inwardly ſurging, do preſs the Muſcles aforeſaid, and cauſe them to be ſtretched out as not growing with equal pace.</p>
+                  </div>
+                  <div n="8" type="chapter">
+                     <head>
+                        <hi>CHAP. VIII.</hi> Of ſtrumous Glondules, or hard Kernels.</head>
+                     <p>FUrthermore it happens that the <hi>Meſentery</hi> is affected with
+<pb n="21" facs="tcp:110147:22"/>great <hi>Kernels,</hi> and <hi>Strumous Tu<g ref="char:EOLhyphen"/>mours.</hi> That the cauſe of this ſymptome may the better be known, I ſhall briefly premit the Origine of <hi>Glandules.</hi> The nervous Liquor being mingled by due fermentation with the Blood, doth paſs into a nutriti<g ref="char:EOLhyphen"/>ous carnal ſubſtance; but, if the Nerve being replete and turgid ſhall pour forth its liquor (which is very much like unto the white of an Eg,) into the interſpaces of the fleſh; the matter ſo effuſed doth not any more make fleſh, through the defect of blood re<g ref="char:EOLhyphen"/>quiſite hereto, but is congealed ed into a Glandulous body very much like unto it ſelf; which from Obſervation is manifeſt: For being about to make an Ex<g ref="char:EOLhyphen"/>periment on a Dog, I pricked a
+<pb n="22" facs="tcp:110147:23"/>
+                        <hi>nerve,</hi> whereupon the dog was afterwards miſerably wreſted with Convulſions, and about three months after, I found a Glandulous concretion remarka<g ref="char:EOLhyphen"/>ble enough, where that wound or Puncture before hand was in<g ref="char:EOLhyphen"/>flicted, which ſeems to ariſe from the nervous liquor flowing from the Puncture of the Nerve.</p>
+                     <p>Theſe things being premiſed; whereas ſo much nervous liquor is transfered from the repleted brain, through the <hi>Wandring Pair</hi> and <hi>Intercoſtol</hi> nerves, into the <hi>Abdomen,</hi> as cannot be changed into the ſubſtance of the <hi>Viſcera</hi> that liquor is depoſited into the interſpaces of the Membranes, (whereof many occur,) and there procureth <hi>ſtrumae</hi> or <hi>waddles</hi> in great number.</p>
+                     <pb n="23" facs="tcp:110147:23"/>
+                     <p>Neither only in the <hi>Abdomen</hi> but whereſoever the nerves ſpringing from the brain, (which grow turgid with that Liquor) do approach, there ſtrumous Tu<g ref="char:EOLhyphen"/>mours are to be ſeen; yet ſuch as vaniſh away ſhortly after the Cure of the diſeaſe: For, the ner<g ref="char:EOLhyphen"/>vous Liquor, which, being effu<g ref="char:EOLhyphen"/>ſed in ſo great plenty from the Brain (through the nerves ſpring<g ref="char:EOLhyphen"/>ing from thence) did abound to the Generation of the <hi>Strumoe,</hi> is now for the greateſt part derived into the <hi>Spinalis medulla;</hi> ſo that thoſe <hi>Strumoe,</hi> defrauded of nu<g ref="char:EOLhyphen"/>triment, in a ſhort time are dry<g ref="char:EOLhyphen"/>ed away.</p>
+                  </div>
+                  <div n="9" type="chapter">
+                     <pb n="24" facs="tcp:110147:24"/>
+                     <head>
+                        <hi>CHAP. IX.</hi> Of the Crookedneſs of the Bones. Dr. <hi>Gliſſons</hi> Opinion touching the ſame, is ſet down.</head>
+                     <p>IN this Affect alſo the Bones are wont to be bowed more or leſs; eſpecially thoſe of the <hi>Cu<g ref="char:EOLhyphen"/>bit</hi> and <hi>Tibia:</hi> The joynts alſo for the moſt part, bend outward<g ref="char:EOLhyphen"/>ly: the Extremities of the Ribs (where they are joyn'd with the Cartilages of the <hi>Sternum,</hi>) are knotty; The Bones of the joynts protuberant; likewiſe the whole <hi>Spine</hi> is variouſly inflected, partly outwards, partly inwards.</p>
+                     <p>I do not conceive that this crookedneſs of the bones doth
+<pb n="25" facs="tcp:110147:24"/>proceed from their <hi>Flexibility,</hi> ſith that Children afflicted with this malady, have rather greater and firmer bones than others, as ſhall more at large be declared: But ſince this incurvitie of the benes is ſo notable, we may be a lit<g ref="char:EOLhyphen"/>tle more prolix in the Diſquiſi<g ref="char:EOLhyphen"/>tion thereof; and firſt I ſhall produce the Learned <hi>Gliſſons</hi> opi<g ref="char:EOLhyphen"/>nion, and then my own.</p>
+                     <p>
+                        <q rend="margQuotes">We may compare the Bones (ſaith the famous man) to which this crookedneſs uſeth to hap<g ref="char:EOLhyphen"/>pen, to a Pillar; and not un<g ref="char:EOLhyphen"/>aptly, ſeeing that when they are erected, they reſemble a Pillar: And from thence we deduce a demonſtration that illuſtrates and makes the mat<g ref="char:EOLhyphen"/>ter very plain. Let the Pil<g ref="char:EOLhyphen"/>lar therefore conſiſt of three
+<pb n="26" facs="tcp:110147:25"/>ſtones <hi>a. b. c.</hi> placed over one another Fig. 1. We ſuppoſe it ſuch a one as is perpendicu<g ref="char:EOLhyphen"/>larly erected on every ſide, and of the ſame height: If therefore you ſhall faſten in a wedge on the right ſide between the ſtones <hi>a. b.</hi> through the line <hi>f. d.</hi> The head of the Pillar, namely the ſtone <hi>a.</hi> will of ne<g ref="char:EOLhyphen"/>ceſſity be bended towards <hi>d.</hi> and will make an Angle in <hi>d.</hi> and the height of the Pillar on the right ſide will be higher than on the left, as may be ſeen in Fig 1. In like manner, if you drive in another wedge through <hi>g. e.</hi> into the ſtones <hi>b. c.</hi> the Pillar will be yet more bow'd, and an Angle will be made in <hi>e.</hi> Now therefore the Pillar ſtands bent to the left
+<pb n="27" facs="tcp:110147:25"/>hand, as you ſee in the ſame Figure. But if you build a Pil<g ref="char:EOLhyphen"/>lar of more ſtones, and be<g ref="char:EOLhyphen"/>twixt every two, (as hath been ſaid,) a wedge be interpoſed on one ſide, it will not reſem<g ref="char:EOLhyphen"/>ble the Figure of a Pillar, but the proportion of a Bow, as is plainly perceived by the third Figure.</q>
+                     </p>
+                     <p>
+                        <q rend="margQuotes">Now that we may accom<g ref="char:EOLhyphen"/>modate theſe things to the pre<g ref="char:EOLhyphen"/>ſent buiſneſs; if the bones aforeſaid be more plentifully nouriſhed, and therefore do grow out more on that, than the oppoſite ſide; there is a neceſſity, that that muſt grow crooked: For here the over<g ref="char:EOLhyphen"/>plentiful nutrition of that ſide hath the ſame power, after the ſame manner, to bow the
+<pb n="28" facs="tcp:110147:26"/>Bones, as the interpoſed wedge hath to bow the Pillar; fave that the wedge is faſtened only in ſome places of the ſide of the Pillar, and the over-plentiful nutrition of the ſide of the bone is commonly equally made, ac<g ref="char:EOLhyphen"/>cording to the whole length thereof, and becauſe of this e<g ref="char:EOLhyphen"/>qual nutrition of the bone, the bowing thereof doth exactly repreſent part of a Circle with<g ref="char:EOLhyphen"/>out Angles.</q>
+                     </p>
+                  </div>
+                  <div n="10" type="chapter">
+                     <head>
+                        <hi>CHAP. X.</hi> The Authors opinion. That the Bones in this Diſeaſe are ſuffici<g ref="char:EOLhyphen"/>ently nouriſhed; but not the muſ<g ref="char:EOLhyphen"/>culous Parts, the extenuation
+<pb n="29" facs="tcp:110147:26"/>whereof is the only Cauſe that the Bones are bowed; as is illuſtra<g ref="char:EOLhyphen"/>ted by Example. Of the inflex<g ref="char:EOLhyphen"/>ion of the Spine. Why the Bones of the Thigh and Shoulder are very ſeldome bowed.</head>
+                     <p>ACcording to this Hypothe<g ref="char:EOLhyphen"/>ſis; <hi>to wit,</hi> the over-plen<g ref="char:EOLhyphen"/>tiful Nutrition of one ſide, the Famous man indeed by an inge<g ref="char:EOLhyphen"/>nious Comment doth demon<g ref="char:EOLhyphen"/>ſtrate the crookedneſs of the Bones. But, (by the leave of ſo great a Perſon,) how doth that over-plentiful nutrition of one ſide appear to us, when as the blood wherewith the bones are nouriſhed, is not leſs equally diſ<g ref="char:EOLhyphen"/>penſed in this Affect, than it is in ſuch as are healthful? And were there any ſuch inequality,
+<pb n="30" facs="tcp:110147:27"/>the over-plentiful Aliment would be admitted in by the hinder-part of the <hi>Tibia</hi> or Shank-bone, as being leſs expoſed to the Cold, and ſofter; and then the poſte<g ref="char:EOLhyphen"/>riour and elongated ſide of the bowed ſhank would be convex, and the anteriour concave: but it is quite contrary; for the ſhank in this Affect is wont to ſtand out forward.</p>
+                     <p>Yea further, we may gather from the very Figure or ſhape of the bowed bones, that they grow equally on both ſides: For the bones are after the manner of the Fourth Figure, which may repreſent the <hi>Tibia,</hi> or ſhank<g ref="char:EOLhyphen"/>bone; where the concave part, <hi>a.</hi> is juſt as long as the convex part, <hi>b.</hi> For otherwiſe, if the <hi>Tibia</hi> were formed as in the fifth
+<pb n="31" facs="tcp:110147:27"/>figure, the Thigh-bone, <hi>b,</hi> plac'd above it, could not be ſuſtained without a manifeſt Obliquity of the body, as may be ſeen in the ſaid Figure.</p>
+                     <p>Let us then inveſtigate ſome other cauſe of this crookedneſs; and that the matter may the more clearly appear, the follow<g ref="char:EOLhyphen"/>ing things are briefly to be pre<g ref="char:EOLhyphen"/>miſed.</p>
+                     <p n="1">1. We affirm that in this Diſ<g ref="char:EOLhyphen"/>eaſe, the Bones are not to be numbred omong the affected parts, in reſpect of Nutrition; for they are not nouriſhed, or do they grow leſs, than in thoſe that are healthy; as we have found by obſervation: For we find that the blood alone is ſufficient for their nutrition, and that there is no need of the nervous Juice, as
+<pb n="32" facs="tcp:110147:28"/>in the nouriſhing of the other parts. For ſince the bones are deemed to have no ſenſe [or feel<g ref="char:EOLhyphen"/>ing] as in themſelves; it is with<g ref="char:EOLhyphen"/>all to be thought that they have little or no commerce with the Nerves.</p>
+                     <p n="2">2. We take it for granted, that in this Affect, the muſcu<g ref="char:EOLhyphen"/>lous and nervous parts do in no<g ref="char:EOLhyphen"/>wiſe wax bigger, by reaſon of the defect of the nervous Liquor that is requiſite for their nutriti<g ref="char:EOLhyphen"/>on.</p>
+                     <p>Theſe things being premiſed let, <hi>a.</hi> in the ſixth Figure be the <hi>Shank-bone; b,</hi> the <hi>muſcles</hi> affixt to it behind, and conſtituting the calf of the Leg. Whereas therefore the <hi>Shank-bone</hi> doth in<g ref="char:EOLhyphen"/>creaſe and grow longer; yet the ſame being held down (as it
+<pb n="33" facs="tcp:110147:28"/>were with a ſtring, (by the muſ<g ref="char:EOLhyphen"/>cles which grow not with equa<g ref="char:EOLunhyphen"/>pace, inſomuch that it cannot grow ſtraight; there is a neceſſi<g ref="char:EOLhyphen"/>ty, that that bone ſhould ſtand bent like a Bow, being ſtretch'd out by the Fibres of the muſcles which are ſhorter.</p>
+                     <p>Let us illuſtrate this our <hi>Hy<g ref="char:EOLhyphen"/>potheſis</hi> by Example. If a Cord or String be faſten'd to a young growing Tree, at the top and towards the root; but in ſuch manner as the ſame be not bent thereby, as in the ſeventh Figure is deſcribed; I no ways doubt but that Tree will become bow'd as it grows, after the manner of the eighth Figure. For this de<g ref="char:EOLhyphen"/>monſtration doth depend, upon this Mathematical aſſertion; <hi>viz. If a Line [aſſigned to certain
+<pb n="34" facs="tcp:110147:29"/>bounds,] be ſtretched out longer within the ſame bounds or limits, it muſt on neceſſity of a ſtraight line become a crooked one:</hi> Which is the very ſame that happens to the bones in this Affect.</p>
+                     <p>And this may further be con<g ref="char:EOLhyphen"/>firmed, in that bowed bones al<g ref="char:EOLhyphen"/>ways reſpect [or be<g ref="char:cmbAbbrStroke">̄</g>d towards] the muſcle annexed to them on the concave part, as a Bow doth its ſtring; as may be ſeen in a <hi>ſhank</hi> which beareth forward, and is Convex; but, in the hinder part that reſpects the Muſcles it is concave: this ſame alſo doth take place in other bones, from a ſtrong Argument, that the bones are not otherwiſe inflect<g ref="char:EOLhyphen"/>ed by the Muſcles, than a bow is by its ſtring. From which a rea<g ref="char:EOLhyphen"/>ſon may be ſought; why Wo<g ref="char:EOLhyphen"/>men-Quacks
+<pb n="35" facs="tcp:110147:29"/>are wont with ſuc<g ref="char:EOLhyphen"/>ceſs daily to rub the concave ſide of the bones, and not the convex: <hi>viz.</hi> The <hi>Muſcle</hi> ſited on the con<g ref="char:EOLhyphen"/>cave ſide of the bone is nouriſhed and increaſeth, the nutritious liquor being more plentifully cal<g ref="char:EOLhyphen"/>ed forth by this kind of Friction; that now it is no marvel, (the ſtring being ſtretched out lo<g ref="char:cmbAbbrStroke">̄</g>ger,) if the bone, extended and bowed by it, be withall relaxed, and be<g ref="char:EOLhyphen"/>come ſtraighter. And from this cauſe, they that are cured of this diſeaſe, grow [for the moſt part] very tall in Stature; for the Bones grow not as in others; but alſo, whilſt they become ſtraight of crooked ones, they are much more elongated.</p>
+                     <p>The <hi>Spine</hi> alſo is variouſly in flicted, partly inwards, and part<g ref="char:EOLhyphen"/>ly
+<pb n="36" facs="tcp:110147:30"/>outwards, which ariſeth from the various Poſition of the Muſ<g ref="char:EOLhyphen"/>cles in divers parts of the <hi>Spine;</hi> The <hi>Spine, to wit,</hi> in the Superi<g ref="char:EOLhyphen"/>our part, (by the muſcles out<g ref="char:EOLhyphen"/>wardly affixt,) is bowed inwards, but in the inferiour part, (by the muſcles <hi>Pſoas</hi> inwardly an<g ref="char:EOLhyphen"/>nexed, and very ſtrong,) it is bent outwards; as in the ninth Figure is ſhewed, wherein, <hi>a. a.</hi> is the <hi>Spine, b.</hi> the <hi>Muſcles</hi> affixt outwardly, and bowing the <hi>Spine</hi> in the ſuperiour part inwards; and, <hi>c.</hi> the internal muſcles of the Loyns called <hi>Pſoas,</hi> bend<g ref="char:EOLhyphen"/>ing the ſame outwards.</p>
+                     <p>In like manner alſo I ſuppoſe this cauſe or reaſon of Crooked<g ref="char:EOLhyphen"/>neſs takes place, not only in this Affect, but likewiſe in oth<g ref="char:EOLhyphen"/>er caſes: For if at any time it
+<pb n="37" facs="tcp:110147:30"/>falls out, in tender Age, that any muſcle through deffect of nutriment be extenuated; the bone to which the ſame is annex<g ref="char:EOLhyphen"/>ed, muſt needs be bowed there<g ref="char:EOLhyphen"/>by.</p>
+                     <p>In the <hi>Thighs,</hi> and <hi>Shoulders,</hi> where the Bones are equally re<g ref="char:EOLhyphen"/>ſtrained by muſcles faſtned on e<g ref="char:EOLhyphen"/>very ſide, thoſe (being poſited in <hi>aequilibrio,</hi> or equal poize) are rarely bowed in any part: but ſince they cannot be ſtretched out in length, they muſt (as they do) on neceſſity grow out in big<g ref="char:EOLhyphen"/>neſs, and ſometimes alſo become knotty.</p>
+                  </div>
+                  <div n="11" type="chapter">
+                     <pb n="38" facs="tcp:110147:31"/>
+                     <head>
+                        <hi>CHAP. XI.</hi> Why the Breaſt grows ſtraight or narrow, and accuminated.</head>
+                     <p>MOreover, it happens in this affect, that the Breaſt becomes ſtraight and accumina<g ref="char:EOLhyphen"/>ted; and this Symptome in like manner may eaſily be illuſtrated by our <hi>Hypotheſis:</hi> For <hi>The Ribs cannot enlarge their Arches, unleſs the Intercoſtal muſcles be alſo exten<g ref="char:EOLhyphen"/>ded, as may be ſeen in the tenth Figure, where the Proportions of the Ribs, a. a. a. a. cannot be e<g ref="char:EOLhyphen"/>longated, unleſs the intercoſtal muſ<g ref="char:EOLhyphen"/>cles be likewiſe ſtretched out or en<g ref="char:EOLhyphen"/>larged.</hi>
+                     </p>
+                     <p>
+                        <hi>But we take it for granted that
+<pb n="39" facs="tcp:110147:31"/>the ſaid muſcles, (in as much as nerves are imparted to them from the</hi> Spinalis Medulla,) <hi>cannot be leng<g ref="char:EOLhyphen"/>thened through defect of Aliment.</hi>
+                     </p>
+                     <p>Ergo, <hi>neither can the Ribs, nor yet the Breaſt grow wider.</hi>
+                     </p>
+                     <p>For, whereas the Ribs are non<g ref="char:EOLhyphen"/>riſhed, yet being ſtayed by the ſaid muſcles, that they cannot be augmented as to longitude; they muſt needs (as it comes to paſs) grow Knotty: But, neither is this Augment ſuitable to the pro<g ref="char:EOLhyphen"/>viſion or plenty of Aliment, wherefore the anteriour extremi<g ref="char:EOLhyphen"/>ties of the Ribs are yet further lengthened to an edge, for there remains but this one way of in<g ref="char:EOLhyphen"/>creaſing, as in the eleventh Fi<g ref="char:EOLhyphen"/>gure is ſhewn, wherein let, <hi>a, a,</hi> be the Ribs, whoſe extremities, <hi>b, b,</hi> grow outwardly to an edge;
+<pb n="40" facs="tcp:110147:32"/>for they cannot be bowed in<g ref="char:EOLhyphen"/>wards, ſince it would be much contrary to their natural Site.</p>
+                     <p>Likewiſe the Muſcles of the <hi>Abdomen</hi> conduce not a little to the narrowneſs of the Breaſt, which, as we ſaid, being extenu<g ref="char:EOLhyphen"/>ated and tighted do draw the in<g ref="char:EOLhyphen"/>feriour Ribs, to which they are faſtned, downwards, and ſo ſtraighten the Breaſt.</p>
+                     <p>With the ſelf ſame reaſon may be demonſtrated the vices of the other bones; <hi>to wit,</hi> whereas the joynt-bones in the <hi>Wriſts</hi> and <hi>Ancles</hi> cannot be bow<g ref="char:EOLhyphen"/>ed by reaſon of their brevity, they do bunch forth into knots or nodes.</p>
+                     <p>But let what hath been ſaid, touching the crookedneſs of the bones ſuffice.</p>
+                  </div>
+                  <div n="12" type="chapter">
+                     <pb n="41" facs="tcp:110147:32"/>
+                     <head>
+                        <hi>CHAP. XII.</hi> Of the <hi>Aſthma,</hi> Purſineſs, or ſhort<g ref="char:EOLhyphen"/>neſs of Breath, in this Affect.</head>
+                     <p>IT is no wonder, if the <hi>Lungs,</hi> which have not room to dilate themſelves, are ſtuft with clot<g ref="char:EOLhyphen"/>ted blood, (as it falls out) and puft up, by reaſon of the afore<g ref="char:EOLhyphen"/>ſaid ſtraightneſs of the breaſt: Hereupon, ſometimes they be<g ref="char:EOLhyphen"/>come purulent, and for the moſt part grow faſt to the <hi>Pleura;</hi> and and from this cauſe the <hi>Aſthma</hi> and difficulty of breathing, do afflict the Patients.</p>
+                  </div>
+                  <div n="13" type="chapter">
+                     <pb n="42" facs="tcp:110147:33"/>
+                     <head>
+                        <hi>CHAP. XIII.</hi> From what Cauſe the Imbecillity or Feebleneſs of the Body doth ariſe.</head>
+                     <p>AS to the very great feeble<g ref="char:EOLhyphen"/>neſs of the body in this Af<g ref="char:EOLhyphen"/>fect, and awkerdneſs to any mo<g ref="char:EOLhyphen"/>tion; altho the extenuation of the Muſcles doth in ſome mea<g ref="char:EOLhyphen"/>ſure make way for this Symp<g ref="char:EOLhyphen"/>tome, yet this alone ſeems not efficacious enough, ſince the im<g ref="char:EOLhyphen"/>pairing of ſtrength is greater than according to the Extenuati<g ref="char:EOLhyphen"/>on of the Muſcles: For, the ſick cannot ſtand on their feet, neith<g ref="char:EOLhyphen"/>er (in the Progreſs of the diſeaſe) are they able to ſuſtain the weight of their head. Where<g ref="char:EOLhyphen"/>fore
+<pb n="43" facs="tcp:110147:33"/>we muſt inveſtigate ſome more remote cauſe of ſo great Imbecility, which indeed can be no other than the defect of the Animal Spirits inevitably enſu<g ref="char:EOLhyphen"/>ing the ſaid obſtruction of the Nerves: For, the Animal ſprits are not requiſite or neceſſary for nutrition alone, but alſo for motion.</p>
+                     <p>And ſo at length we have, (as it were from a Fountain,) dedu<g ref="char:EOLhyphen"/>ced the Symptoms of this diſeaſe, from the obſtruction of the <hi>Spi<g ref="char:EOLhyphen"/>nalis medulla.</hi>
+                     </p>
+                  </div>
+                  <div n="14" type="chapter">
+                     <pb n="44" facs="tcp:110147:34"/>
+                     <head>
+                        <hi>CHAP. XIV.</hi> Why elderly Perſons, or thoſe of ri<g ref="char:EOLhyphen"/>per years, are not moleſted with this Diſeaſe.</head>
+                     <p>BUt here may ariſe a Querie: <hi>How comes it to paſs, that a<g ref="char:EOLhyphen"/>dult or Elderly Perſons are never in<g ref="char:EOLhyphen"/>feſted with this Malady; whereas they, as well as Infants, may ſuffer Obſtructions of the Nerves, as it happens in the Palſie, and other the like diſtempers?</hi> I anſwer; altho perhaps Children are chiefly ob<g ref="char:EOLhyphen"/>noxious to this diſeaſe; yet thoſe of riper years are ſometimes trou<g ref="char:EOLhyphen"/>bled with this Affect under a dif<g ref="char:EOLhyphen"/>ferent name. Nevertheleſs, be<g ref="char:EOLhyphen"/>cauſe the aforeſaid Symptoms for
+<pb n="45" facs="tcp:110147:34"/>the greateſt part do never befall Elderly People; this doth not ariſe from the difference of the Diſeaſe, but of the Age. For, whereas the maſſy Bulk of the Head, the crookedneſs of the Bones, and ſome other Symp<g ref="char:EOLhyphen"/>toms proceed from the enor<g ref="char:EOLhyphen"/>mous augmentation of the Parts, it is altogether impoſſible that adult perſons, and ſuch as are grown to the higheſt Pitch, (<hi>to wit</hi> ſuch as have attained their full growth) ſhould grow irre<g ref="char:EOLhyphen"/>gularly; and for that reaſon the Bulk of the Head is not augment<g ref="char:EOLhyphen"/>ed beyond meaſure in elderly perſons ſick of this diſeaſe, as it is in Children; becauſe the head is at full growth, which the Laws of Nature it ſelf deny to exceed. But altho the parts cannot be en<g ref="char:EOLhyphen"/>ormouſly
+<pb n="46" facs="tcp:110147:35"/>augmented in thoſe that are elderly; yet, the diſeaſe ſuf<g ref="char:EOLhyphen"/>ficiently diſcovers it ſelf, by ex<g ref="char:EOLhyphen"/>tenuating the ſame, which one thing in ſuch [<hi>viz.</hi> adult Perſons] it can only do.</p>
+                  </div>
+                  <div n="15" type="chapter">
+                     <head>
+                        <hi>CHAP. XV.</hi> The Prognoſtick of this Diſeaſe com<g ref="char:EOLhyphen"/>prehended in Seaven Aphoriſms.</head>
+                     <p>
+                        <hi>AS to the</hi> Prognoſis, Praeſcience, <hi>or Prognoſtication of the Event of this Diſeaſe, of it ſelf for the moſt part it is not mortal: yet ſometimes the Symptoms waxing grievous, it degenerates into a</hi> Phthiſis, Conſumption, He<g ref="char:EOLhyphen"/>ctick-Feaver, Dropſie <hi>of the</hi> Lungs, <hi>or</hi> Aſcites; <hi>and ſo at length it
+<pb n="47" facs="tcp:110147:35"/>proves deadly to the Patient. But a more eaſy</hi> Prognoſtick <hi>may be inſtituted from the Rules fol<g ref="char:EOLhyphen"/>lowing.</hi>
+                     </p>
+                     <p n="1">
+                        <hi>1.</hi> If this Diſeaſe lay hold on the Patient before the Birth, or preſent<g ref="char:EOLhyphen"/>ly after; it is [then] moſt dange<g ref="char:EOLhyphen"/>rous, and for the moſt part Lethal.</p>
+                     <p n="2">
+                        <hi>2.</hi> By how much the ſooner after the Birth this Affect invades [the Infant,] it is ſo much the more dan<g ref="char:EOLhyphen"/>gerous.</p>
+                     <p n="3">
+                        <hi>3.</hi> By how much the more the Symptoms of the Diſeaſe grow worſe and worſe; <hi>viz.</hi> If there be to great a diſproportion of the Parts, and ve<g ref="char:EOLhyphen"/>ry great extenuation; ſo much the more difficult is the Cure.</p>
+                     <pb n="48" facs="tcp:110147:36"/>
+                     <p n="4">
+                        <hi>4.</hi> If this Affect have the afore<g ref="char:EOLhyphen"/>ſaid Diſeaſes joyned with it, it ſcarce<g ref="char:EOLhyphen"/>ly ever terminates in Health.</p>
+                     <p n="5">
+                        <hi>5.</hi> Whoſoever are not cured be<g ref="char:EOLhyphen"/>fore the fifth year of their Age, they are ſickly all their life time after<g ref="char:EOLhyphen"/>wards.</p>
+                     <p n="6">
+                        <hi>6.</hi> The <hi>Scab</hi> or <hi>Itch</hi> coming upon this Diſeaſe, confers much to the Cure thereof.</p>
+                     <p n="7">
+                        <hi>7.</hi> We need not doubt of their Health, in whom the Symptoms of the Diſeaſe are not increaſed, but rather diminiſhed.</p>
+                  </div>
+                  <div n="16" type="chapter">
+                     <pb n="49" facs="tcp:110147:36"/>
+                     <head>
+                        <hi>CHAP. XVI.</hi> The Method of Curing.</head>
+                     <p>AFter that we have made en<g ref="char:EOLhyphen"/>quiry into the <hi>Cauſe</hi> and <hi>Prognoſtick</hi> of this Diſeaſe, it now remains that we come to its Pre<g ref="char:EOLhyphen"/>caution, or prevention, and cure.</p>
+                     <p>Whereas then the cauſe of this Affect doth conſiſt in the obſtru<g ref="char:EOLhyphen"/>ction of the <hi>Spinalis medulla,</hi> and the Imbecility of the nerves thence deſcended; the Principal Indications as well preſervatory as curatory are, that the nerves be ſtrengthened, and the Obſtru<g ref="char:EOLhyphen"/>ctions prevented, or taken away to this end, <hi>Medicaments Cathar<g ref="char:EOLhyphen"/>tick, Phlebotomy,</hi> alſo <hi>Digeſtives,
+<pb n="50" facs="tcp:110147:37"/>Diuretics, Diaphoretics,</hi> and <hi>Spe<g ref="char:EOLhyphen"/>cifics</hi> may be made uſe of, whoſe Forms and manner of Uſing, we ſhall ſet down below.</p>
+                     <p>As to what belongs to the Cure of the Diſeaſe, in the In<g ref="char:EOLhyphen"/>ſtitution thereof, we muſt begin with Purgation; which is ſo much the more convenient in this Affect, for that Phlegmatic Hu<g ref="char:EOLhyphen"/>mors are for the moſt part con<g ref="char:EOLhyphen"/>geſted in the loweſt Belly in great abundance, and the inward parts of the <hi>Abdomen</hi> are frequently af<g ref="char:EOLhyphen"/>fected with ſtrumous Tumours. Purgation may be ordained by Clyſters, Emeticks, or Purging Lenitives.</p>
+                  </div>
+                  <div n="17" type="chapter">
+                     <pb n="51" facs="tcp:110147:37"/>
+                     <head>
+                        <hi>CHAP. XVII.</hi> The uſe of <hi>Clyſters,</hi> and ſome Forms thereof.</head>
+                     <p>IF the Belly be Coſtive, or in<g ref="char:EOLhyphen"/>feſted with Colical Torments, let Clyſters be freque<g ref="char:cmbAbbrStroke">̄</g>tly made uſe of, which are not meerly ſolu<g ref="char:EOLhyphen"/>tive, but moreover alſo, let them be compounded of Alte<g ref="char:EOLhyphen"/>rants and Corroboratives. We will deſcribe ſome forms there<g ref="char:EOLhyphen"/>of.</p>
+                     <div type="recipe">
+                        <head>A Laxative, Anodyne, and Car<g ref="char:EOLhyphen"/>minative, Clyſter.</head>
+                        <p>Take of the Leaves of <hi>Mal<g ref="char:EOLhyphen"/>lows Mj.</hi> the Flowers of <hi>Melilot, Cammomil, Elder,</hi> of each <hi>Pj. An<g ref="char:EOLhyphen"/>nis-ſeds</hi>
+                           <pb n="52" facs="tcp:110147:38"/>and <hi>Fennel ſeeds</hi> bruiſed of each, half a dram; Boyl them in a ſufficient Quantity of new <hi>Cow</hi>'s-<hi>milk.</hi> To 4.5. or 6. Ounces of the Colature, add <hi>Brown Sugar,</hi> and <hi>Syrup</hi> of <hi>Violets,</hi> or <hi>Roſes,</hi> of each one Ounce, mingle them, make a Clyſter to be in<g ref="char:EOLhyphen"/>jected Luke-warm, a long while after Meales.</p>
+                     </div>
+                     <div type="recipe">
+                        <head>Another.</head>
+                        <p>Take the Root of <hi>Marſh mal<g ref="char:EOLhyphen"/>low</hi> bruiſed, half an Ounce; the Leaves of <hi>Mallows,</hi> and <hi>Pellitory of the Wall,</hi> of eaeh, half a hand<g ref="char:EOLhyphen"/>ful; the Flowers of <hi>Chammomil,</hi> and Elder, of each, a ſmall hand<g ref="char:EOLhyphen"/>ful; Carminative Seeds, two drams: boyl them in a ſufficient Quantity of Poſſet-Ale. To 5,
+<pb n="53" facs="tcp:110147:38"/>or 6, Ounces of the Colature, add of the Lenitive Electuary, or Diacaſſia, half an Ounce: Freſh Butter ſix Drams: mingle them: make a Clyſter to be in<g ref="char:EOLhyphen"/>jected luke-warm.</p>
+                        <p>Corroborant Clyſters may be made after this manner.</p>
+                     </div>
+                     <div type="recipe">
+                        <head>A Corroborant Clyſter.</head>
+                        <p>Take of freſh Stone-horſe dung one Ounce and an half; Flowers of Roſemary and Sage, of each, a ſmall handfull; of Juniper ber<g ref="char:EOLhyphen"/>ries, two Drams; Annis-ſeeds and Fennel-Seeds, of each, half a Dram: Digeſt them warm and cloſe ſtopt, with a ſufficient quantity of Poſſet Ale. In 4, 5, or 6, Ounces of the Colature, Diſſolve of brown Sugar, one Ounce, Freſh butter ſix Drams.
+<pb n="54" facs="tcp:110147:39"/>mingle them; make a Clyſter: Moreover, ſix Drams of Cala<g ref="char:EOLhyphen"/>brian Manna may be added, if you ſee cauſe.</p>
+                     </div>
+                     <div type="recipe">
+                        <head>Another.</head>
+                        <p>Take 20, or 30, waſhed Hog<g ref="char:EOLhyphen"/>lice: to which being bruiſed, pour on 4. or 5. Ounces of Poſſet<g ref="char:EOLhyphen"/>drink made with White-wine. In the Expreſſion diſſolve of Brown Sugar, one Ounce; <hi>Venetian</hi> Tur<g ref="char:EOLhyphen"/>pentine diſſolv'd in the white of an Egg, one or two Drams. Min<g ref="char:EOLhyphen"/>gle them, make a Clyſter to be injected luke warm.</p>
+                     </div>
+                  </div>
+                  <div n="18" type="chapter">
+                     <pb n="55" facs="tcp:110147:39"/>
+                     <head>
+                        <hi>CHAP. XVIII.</hi> The uſe of <hi>Emeticks</hi> or Vomitory Medicines, and ſome Forms thereof.</head>
+                     <p>IF the Ventricle be loaded with vitious Humours, and they tend upward, let Emeticks be exhibited; nevertheleſs ſo as in the Preſcription thereof Conſide<g ref="char:EOLhyphen"/>ration muſt be had of the tender Age. Let the Vomitories con<g ref="char:EOLhyphen"/>ſiſt rather of <hi>Salt</hi> of <hi>Vitriol,</hi> and <hi>Wine</hi> of <hi>Squils,</hi> than of ſtibiated medicines; for that it is not ſo ſafe to exhibit them to Infants, for fear of Convulſions; albeit in ſome Caſes ſtibiated Medi<g ref="char:EOLhyphen"/>cines may alſo be made uſe of.</p>
+                     <div type="recipe">
+                        <pb n="56" facs="tcp:110147:40"/>
+                        <head>A Gentle Vomitory.</head>
+                        <p>Take of the wine, or Oxymel of <hi>Squils,</hi> from half an Ounce to an Ounce; which being taken, half an hour after, let the Patient drink Poſſet-Ale in great abun<g ref="char:EOLhyphen"/>dance; then with a Feather, or Finger, thruſt down the Throat, provoke Vomiting, and ſome<g ref="char:EOLhyphen"/>times repeat it.</p>
+                     </div>
+                     <div type="recipe">
+                        <head>Another.</head>
+                        <p>Take Oxymel of Squil's, from half an Ounce to an Ounce; If Vo<g ref="char:EOLhyphen"/>miting ſucceed not, half an hour after, give half a Scruple, or fifteen Grains of ſalt of Vitriol, in a draught of Poſſet-Ale.</p>
+                        <p>If ſtrength will permit, ſtrong<g ref="char:EOLhyphen"/>er
+<pb n="57" facs="tcp:110147:40"/>Emeticks may be uſed: As this that follows.</p>
+                     </div>
+                     <div type="recipe">
+                        <head>A ſtronger Vomitory.</head>
+                        <p>Take of the Infuſion of <hi>Cro<g ref="char:EOLhyphen"/>cus Metallorum</hi> well depurated by ſettlement, from one dram to two, according to the Age, and ſtrength of the Patient; Ox<g ref="char:EOLhyphen"/>ymel of Squills, three drams, or half an ounce; ſimple-water of Wall-nuts, or of the leſſer Gento<g ref="char:EOLhyphen"/>ry, ſix drams: Mingle them, make a Vomitory.</p>
+                     </div>
+                  </div>
+                  <div n="19" type="chapter">
+                     <head>
+                        <hi>CHAP. XIX.</hi> Some Examples of <hi>Cathartics,</hi> or Purging Medicines.</head>
+                     <p>A gentle Purgation (ſome daies after a Vomitory, or
+<pb n="58" facs="tcp:110147:41"/>elſe if Vomition be not requiſite) may be ordained, and repeated by Intervals.</p>
+                     <div type="recipe">
+                        <head>A Gentle Purging Draught.</head>
+                        <p>Take the Cream of Tartar, from ten Grains to fifteen; <hi>Au<g ref="char:EOLhyphen"/>guſtan Syrup,</hi> or Syrup of <hi>Suc<g ref="char:EOLhyphen"/>cory</hi> with <hi>Rhubarb,</hi> from ſix drams to one ounce; mingle them: Let it be taken very early in the mor<g ref="char:EOLhyphen"/>ning, either by it ſelf, or in a draught of Poſſet-Ale.</p>
+                     </div>
+                     <div type="recipe">
+                        <head>Another.</head>
+                        <p>Take Calabrian Manna, from half an ounce to an ounce; Vitrio<g ref="char:EOLhyphen"/>lated Tartar from five Grains to ten; mingle them. Let the mix<g ref="char:EOLhyphen"/>ture be taken in the morning, in
+<pb n="59" facs="tcp:110147:41"/>Broth, or Poſſet - Ale.</p>
+                     </div>
+                     <div type="recipe">
+                        <head>A Purging Syrup.</head>
+                        <p>R. Of the Roots of Polypody of the Oak, ſharp-pointed dock, each ſix drams; Bark of the Roots of Elder, Dwarf-Elder, of each half an ounce; Roots of Oſmond<g ref="char:EOLhyphen"/>royal, Male-fern, Succory, of each, half an ounce; The Herbs Agrimony, Liver-wort, Speed<g ref="char:EOLhyphen"/>well, Hart's-tongue, Ceterach, of each, half a handful: Boyl them in three Pints of Spring<g ref="char:EOLhyphen"/>water, to the Conſumption of the third part. Let the Liquor be ſtrained into a Matrace, where<g ref="char:EOLhyphen"/>unto put of the Leaves of <hi>Senna,</hi> two ounces, <hi>Rhubarb,</hi> one ounce, <hi>Dodder</hi> of <hi>Time,</hi> yellow <hi>Sanders,</hi> of each, two drams; of Annis<g ref="char:EOLhyphen"/>ſeeds,
+<pb n="60" facs="tcp:110147:42"/>Fennel-ſeeds, of each on? dram; Salt of Worm wood, one dram and a half: Infuſe them warm, and cloſe-ſtopt 12 hours; to the ſtraining cleared by ſet<g ref="char:EOLhyphen"/>tlement, add an equal quantity of Sugar; and by the mere diſſo<g ref="char:EOLhyphen"/>lution of the Sugar, or gentle boyling, make a Syrup according to Art. The Doſe is from 1, to 3, ſpoon-fulls, either by it ſelf, or in ſome appropriate Liquor.</p>
+                     </div>
+                     <div type="recipe">
+                        <head>A Purging Electuary.</head>
+                        <p>To the above-mentioned Purg<g ref="char:EOLhyphen"/>ing Infuſio<g ref="char:cmbAbbrStroke">̄</g>, add of <hi>Caſſia,</hi> and <hi>Ta<g ref="char:EOLhyphen"/>marinds,</hi> extracted with part of the ſame Infuſion, <hi>Calabrian Man<g ref="char:EOLhyphen"/>na</hi> ſtrained or purified, and of the beſt Sugar, of each I ounce and a half; Evaporate them with a gen<g ref="char:EOLhyphen"/>tle
+<pb n="61" facs="tcp:110147:42"/>Heat to the Conſiſtence of an Electuary. The Doſe is, the Quantity of a Wallnut, more or leſs according to its Operation.</p>
+                     </div>
+                     <div type="recipe">
+                        <head>Purgative Pils.</head>
+                        <p>
+                           <hi>R:</hi> Of the Species of <hi>Hiera-Pi<g ref="char:EOLhyphen"/>cra ſimplex,</hi> one dram; of the beſt Rhubarb powdered, half a dram; vitriolated Tartar, one ſcruple, <hi>Gu<g ref="char:cmbAbbrStroke">̄</g>-Ammoniac</hi> diſſolved in Vine<g ref="char:EOLhyphen"/>gar, fifteen Grains: With a ſuffi<g ref="char:EOLhyphen"/>cient quantity of <hi>Elixir Proprie<g ref="char:EOLhyphen"/>tatis</hi> of <hi>Paracelſus,</hi> let a Pilulary Maſs be made, whereof let from half a ſcruple to a ſcruple be formed into Pills, and given at the hour of ſleep.</p>
+                        <p>A <hi>Bochet</hi> of Rhubarb, and yel<g ref="char:EOLhyphen"/>low Sanders, made in proper diſtilled Waters, may be made uſe of.</p>
+                        <pb n="62" facs="tcp:110147:43"/>
+                        <p>If the Patient be affected with <hi>Worms, or <gap reason="illegible" resp="#OXF" extent="4 letters">
+                                 <desc>••••</desc>
+                              </gap>mous Swellings,</hi> or there b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> any ſuſpition of the <hi>Ve<g ref="char:EOLhyphen"/>nereal Euil,</hi> the following Bolus may be exhibited between whiles.</p>
+                     </div>
+                     <div type="recipe">
+                        <head>A Purging Bolus.</head>
+                        <p>Take <hi>Mercurius dulcis,</hi> from ſix Grains to ten; Conſerve of the Flowers of Succory half a dram; mix them, make a Bolus. Let it be given very early in the mor<g ref="char:EOLhyphen"/>ning, the Patient drinking im<g ref="char:EOLhyphen"/>mediately after it a convenient Doſe of the Purging Syrup, or Infuſion.</p>
+                     </div>
+                     <div type="recipe">
+                        <head>Another.</head>
+                        <p>R. <hi>Mercurius dulcis,</hi> from ſix Gr. to ten; Roſin of Jalap or Scam<g ref="char:EOLhyphen"/>mony,
+<pb n="63" facs="tcp:110147:43"/>from two Grains to four; Chymical Oyl of Juniper ber<g ref="char:EOLhyphen"/>ries, one drop. Make a Pow<g ref="char:EOLhyphen"/>der, which reduce into a Bolus with one dram of the Pulp of a coddled [or roaſted] Apple, or with Conſerve of Violets. Let the Patient take it early in the morning.</p>
+                     </div>
+                  </div>
+                  <div n="20" type="chapter">
+                     <head>
+                        <hi>CHAP. XX.</hi> Chirurgical Remedies.</head>
+                     <p>AFter gentle Purgation, if the Patient be of a Sanguine Temper, <hi>Phlebotomy or Blood<g ref="char:EOLhyphen"/>letting</hi> takes place. The Empi<g ref="char:EOLhyphen"/>ricks of our Nation, are wont to draw Blood in a ſmall quanti<g ref="char:EOLhyphen"/>ty
+<pb n="64" facs="tcp:110147:44"/>by ſcarifying the hollow part of the Ear, which they perform with a bluntiſh Knife, rather than with a ſharp Pen-knife, and that they repeat twice or thrice, inter<g ref="char:EOLhyphen"/>poſing the ſpace or interval of a<g ref="char:EOLhyphen"/>bout ſeven daies. Tho Practiti<g ref="char:EOLhyphen"/>oners do celebrate much this kind of Scarification, yet I can<g ref="char:EOLhyphen"/>not tell but that <hi>Leeches</hi> profit as much or more. Neither do I ſuppoſe that it is to be feared, that <hi>Leeches</hi> by their ſucking would affect a greater Flux of Blood to<g ref="char:EOLhyphen"/>wards the Head. For what Blood ſoever (by reaſon of their ſucti<g ref="char:EOLhyphen"/>on) cometh near to the Part which they are applied to, the ſame is evacuated by the very ſuction: and as to the greater afflux of Blood, which is cauſed by the fulneſs of the Veſſels, that
+<pb n="65" facs="tcp:110147:44"/>alſo takes place in Phlebotomy.</p>
+                     <p>Moreover, Iſſues bring very great help in this Affect, and eſpecially a Fontinel excited be<g ref="char:EOLhyphen"/>tween the firſt and ſecond <hi>Ver<g ref="char:EOLhyphen"/>tebrae</hi> of the Neck; for ſo the ſame being applied to the Origine of the Diſeaſe will be of more efficacy. The uſe of Fonticles chiefly couſiſts in that the ſame conduce to evacuate the ſuper<g ref="char:EOLhyphen"/>fluous Seroſitie of the Brain, and thereby to diminiſh its irregu<g ref="char:EOLhyphen"/>lar magnitude, and alſo to dry up the too great humidity of the <hi>Spinalis Medulla,</hi> and conſequent<g ref="char:EOLhyphen"/>ly to corroborate the Nerves thence deſcended. A <hi>Seton</hi> may very well ſupply the place of a Fontinel.</p>
+                     <p>As for Veſicatories or Bliſter<g ref="char:EOLhyphen"/>plaiſters, it is not to be doubted,
+<pb n="66" facs="tcp:110147:45"/>but that they will bring help, be<g ref="char:EOLhyphen"/>ing applied to the <hi>Vertebrae</hi> of the Neck, and behind the Ears. But their vertue is ſoon exerted, and the frequent uſe of them is too troubleſome and painful for Chil<g ref="char:EOLhyphen"/>dren.</p>
+                     <p>Furthermore, Cupping-Glaſſ<g ref="char:EOLhyphen"/>es without Scarification applied according to the whole length of the <hi>Spine,</hi> ſeem to be of no ſmall Moment to correct the Cold and moiſt temper of the <hi>Spinalis Me<g ref="char:EOLhyphen"/>dulla,</hi> and to take away the tor<g ref="char:EOLhyphen"/>pour of the Nerves: Yea ſome<g ref="char:EOLhyphen"/>times alſo I ſuppoſe they may be applied near the uppermoſt <hi>Ver<g ref="char:EOLhyphen"/>tebrae</hi> of the Neck, with Scarifi<g ref="char:EOLhyphen"/>cation.</p>
+                  </div>
+                  <div n="21" type="chapter">
+                     <pb n="67" facs="tcp:110147:45"/>
+                     <head>
+                        <hi>CHAP. XXI. Specific Alterants,</hi> [or Remedies peculiar to this Diſeaſe, being ſuch as alter and correct the Blood and Humours.]</head>
+                     <p>BEſides Purging and Chirur<g ref="char:EOLhyphen"/>gical Remedies, ſpecific alte<g ref="char:EOLhyphen"/>rant Medicines may alſo be uſed; to which Diaphoretics and Diure<g ref="char:EOLhyphen"/>tics are ſometimes to be added, ſome Examples whereof we will ſet down.</p>
+                     <p>Specific Remedies, which are found moſt effectual to cure this Malady, are either Simple, or Compound; and indeed among the Simple ones, theſe following are moſt approved.</p>
+                     <div type="remedies">
+                        <pb n="68" facs="tcp:110147:46"/>
+                        <head>Specific Remedies.</head>
+                        <list>
+                           <item>The Wood <hi>Guaiacum,</hi> and its <hi>Bark.</hi>
+                           </item>
+                           <item>
+                              <hi>Saſſafras.</hi>
+                           </item>
+                           <item>Wood of the <hi>Lentick tree.</hi>
+                           </item>
+                           <item>
+                              <hi>Roſemary wood.</hi>
+                           </item>
+                           <item>The knotty parts [or tops] of the <hi>Fir-tree.</hi>
+                           </item>
+                           <item>Root of <hi>China.</hi>
+                           </item>
+                           <item>
+                              <hi>Sarſaparilla.</hi>
+                           </item>
+                           <item>The three ſorts of <hi>Sanders.</hi>
+                           </item>
+                           <item>The Root of <hi>Oſmond-Royal,</hi> or rather the Spikes or little Fibres of its Roots.</item>
+                           <item>The Roots of <hi>Male-Fern,</hi> or rather the Buds juſt burſting forth out of the Earth.</item>
+                           <item>Roots of,
+<list>
+                                 <item>
+                                    <hi>Graſs.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Aſparagus.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Eringo.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Succory.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Bur-dock.</hi>
+                                 </item>
+                              </list>
+                           </item>
+                           <pb n="69" facs="tcp:110147:46"/>
+                           <item>The Capillary Herbs, and eſ<g ref="char:EOLhyphen"/>pecially the <hi>Engliſh black Maiden<g ref="char:EOLhyphen"/>hair.</hi>
+                           </item>
+                           <item>
+                              <hi>Spleen-wort.</hi>
+                           </item>
+                           <item>
+                              <hi>Wall Rue or Tent-wort.</hi>
+                           </item>
+                           <item>
+                              <hi>Harts-tongue.</hi>
+                           </item>
+                           <item>
+                              <hi>Liver-wort.</hi>
+                           </item>
+                           <item>The Bark of <hi>Caper-roots.</hi>
+                           </item>
+                           <item>
+                              <hi>Male Speed-well.</hi>
+                           </item>
+                           <item>
+                              <hi>Agrimony.</hi>
+                           </item>
+                           <item>
+                              <hi>Brook-lime.</hi>
+                           </item>
+                           <item>
+                              <hi>Water-Creſſes.</hi>
+                           </item>
+                           <item>The Leaves and Flow<g ref="char:EOLhyphen"/>ers of
+<list>
+                                 <item>
+                                    <hi>Sage.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Roſemary.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Archangel.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Betony.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Tamarisk.</hi>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>The preparation of <hi>Steel,</hi> as its <hi>Salt</hi> or <hi>Vitriol.</hi>
+                           </item>
+                           <item>
+                              <hi>Tartar.</hi>
+                           </item>
+                           <item>
+                              <hi>Caſtoreum.</hi>
+                           </item>
+                           <pb n="70" facs="tcp:110147:47"/>
+                           <item>The Flowers of Brimſtone.</item>
+                           <item>
+                              <hi>Earth-Worms.</hi>
+                           </item>
+                           <item>
+                              <hi>Hog-lice</hi> prepared.</item>
+                           <item>And the like.</item>
+                        </list>
+                     </div>
+                     <div type="recipe">
+                        <head>Whereof Compounds may be formed after this manner.</head>
+                        <head type="sub">A Decoction.</head>
+                        <p>R. The Spikes of the Roots of <hi>Oſmond-Royal,</hi> or the Roots of <hi>Male-Fern,</hi> or the Buds of its Roots ſcarce yet burſt out of the Ground, one handful: Boyl the ſame in a Pint of Milk, or Spring water to the Conſumption of the third part. Let the Colature be edulcorated with Sugar, and taken twice or thrice in a day.</p>
+                     </div>
+                     <div type="recipe">
+                        <head>Another.</head>
+                        <p>Take Of the Leaves of <hi>Tee.</hi> one dram; of the flowers of <hi>Sage</hi> and
+<pb n="71" facs="tcp:110147:47"/>of <hi>Betony,</hi> of each half a dram. Whereupon, the ſame being put into a fit Veſſel, pour of Water, which hath boyled a while, one pint: Infuſe them cloſe ſtop'd, and luke-warm, for about an hour's ſpace. Let the Colature be edulcorated with Sugar, and drank as the other.</p>
+                        <p>A <hi>Bochet</hi> of the Roots of China Sarſaparilla, and Saſſafras, boyled in <hi>Spring water,</hi> may be made uſe of.</p>
+                     </div>
+                     <div type="recipe">
+                        <head>A Decoction.</head>
+                        <p>Take of the fibres or ſpikes of the Roots of Oſmond-Royal, roots of Bur-dock, Graſs-roots, and roots of Succory, of each one ounce; of the Herbs of Male-ſpeedwel, Agrimony, Harts<g ref="char:EOLhyphen"/>tongue,
+<pb n="72" facs="tcp:110147:48"/>Liver-wort, Maiden hair of each half a handful: Of the ſhavings of Harts horne, and Ivory of each half an ounce; ſton<g ref="char:EOLhyphen"/>ed Raiſons one ounce. Boyl them in four pounds of Spring-water, to the conſumption of the third part; add thereto of White-wine or Rheniſh, half a pound, and pre<g ref="char:EOLhyphen"/>ſently ſtrain it into a fit Veſſel; to which let there be put of the leaves of Brook-lime, Water<g ref="char:EOLhyphen"/>creſſes, and of the Tops of the Fir-tree, of each half a handful; of Juniper-berries, half an ounce; make an Infuſion Warm and cloſe ſtopt for about two hours. Keep the Colature in Glaſſes well cloſ<g ref="char:EOLhyphen"/>ed, and edulcorate it at your pleaſure: The Doſe is, two or three Ounces at medical hours.</p>
+                     </div>
+                     <div type="recipe">
+                        <pb n="73" facs="tcp:110147:48"/>
+                        <head>Medicated Ale.</head>
+                        <p>Take of the Wood of the Len<g ref="char:EOLhyphen"/>tisk-tree, Roſemary; Roots of Sarſaparilla, of Oſmond-royal, or of Male-fern, of each, three oun<g ref="char:EOLhyphen"/>ces; Herbs, Agrimony, Maiden<g ref="char:EOLhyphen"/>hair, Speedwell, Harts tongue; Sage, Betony, of each Mij. Tops of the Fir-tree, Tamarisk, of each Mj. boyl them in four Gal<g ref="char:EOLhyphen"/>lons of <hi>Ale</hi> to the Conſumption of one; let the Colature Fer<g ref="char:EOLhyphen"/>ment or Work, and then repoſe it in a ſmall Veſſel, wherein hang a little bag, made of fine Linen and filled with the following things, <hi>viz.</hi> Hog-lice waſhed in white-wine, and lightly bruiſed N<hi rend="sup">o</hi>. 200. Juniper berries, ℥ij. Nutmegs ſliced N<hi rend="sup">o</hi>. 2 together
+<pb n="74" facs="tcp:110147:49"/>with a piece of ſteel or Iron to ſink the Bag.</p>
+                        <p>If there be any ſuſpition of the <hi>Seurvy,</hi> you likewiſe may put in<g ref="char:EOLhyphen"/>to the Veſſel, the leaves of Brook<g ref="char:EOLhyphen"/>lime, and Water-creſſes, of each Mij. Let them remain there about a fortnight; and then let the Li<g ref="char:EOLhyphen"/>quor be taken for ordinary drink.</p>
+                     </div>
+                     <div type="recipe">
+                        <head>An Electuary.</head>
+                        <p>Take Conſerve of the roots of Succory, and of the flowers of Betony, of each one ounce; Con<g ref="char:EOLhyphen"/>ſerve of Roſemary-flowers, of the flowers of Tamarisk, and Rinds of Lemmons, of each half an ounce; preſerved Myrobalanes N<hi rend="sup">o</hi>. 2; of the compound powder of Crabs-claws, one dram; Cream of Tartar, and flowers of Salt.
+<pb n="75" facs="tcp:110147:49"/>Armoniac, of each half a dram; of yellow Sanders, ℈j. with Syrup of Coral as much as is ſufficient make an Electuary: Let the Pa<g ref="char:EOLhyphen"/>tient take the quantity of a Nut<g ref="char:EOLhyphen"/>meg, in the morning, and at five a clock in the Afternoon, drink<g ref="char:EOLhyphen"/>ing thereupon a draught of ſome proper Liquor.</p>
+                     </div>
+                     <div type="recipe">
+                        <head>A Powder.</head>
+                        <p>Take of the <hi>Powder</hi> of prepar'd Hog-lice, two drams; of Nut<g ref="char:EOLhyphen"/>megs half an ounce; of the flow<g ref="char:EOLhyphen"/>ers of ſalt Armoniac, two ſcru<g ref="char:EOLhyphen"/>ples; make a <hi>Powder;</hi> the Doſe is from 8 Gr. to 15, in ſome A<g ref="char:EOLhyphen"/>pozeme, Broth or any other con<g ref="char:EOLhyphen"/>venient Liquor.</p>
+                     </div>
+                     <div type="recipe">
+                        <pb n="76" facs="tcp:110147:50"/>
+                        <head>Pills.</head>
+                        <p>This ſame Powder may be re<g ref="char:EOLhyphen"/>duced into a Pilulary Maſs, with a ſufficient quantity of <hi>Capivius</hi>'s Balſom, to be formed into lit<g ref="char:EOLhyphen"/>tle Pills: The Doſe is about a Scruple.</p>
+                     </div>
+                     <div type="recipe">
+                        <head>A Powder.</head>
+                        <p>Take of the Roots of Oſmond Royal, or of Male-fern, one dram and an half; of the Roots of Male Peony one dram; Wood of Saſſafras, yellow Sanders, Seeds of Water-creſſes, of each, one Scruple; candied Orange. Peel, two drams; make a Powder. The Doſe is from half a Scruple to a Scruple as above.</p>
+                     </div>
+                     <div type="recipe">
+                        <pb n="77" facs="tcp:110147:50"/>
+                        <head>Lozenges or Tablets.</head>
+                        <p>Of the preſcribed <hi>Powder</hi> you may form Lozenges with Seaven times the weight of white Sugar diſſolved in black cherry-water, and boyled to a tabulary conſiſt<g ref="char:EOLhyphen"/>ence; each of them being in weight one dram: Let from half a dram, to a dram be taken twice in a day, drinking after it ſome appropriate Liquor.</p>
+                     </div>
+                     <div type="recipe">
+                        <head>A Diſtilled Water.</head>
+                        <p>Take of the root of Cuckow pint, Male Peony, Oſmond-roy<g ref="char:EOLhyphen"/>al, or Male-fern, of each four ounces. Leaves of Sage, Betony Roſemary, water-creſſes, Brook<g ref="char:EOLhyphen"/>lime, Male-ſpeedwell, Liver-wort,
+<pb n="78" facs="tcp:110147:51"/>tops of the Fir-tree, of each, three handfulls; of green Walnuts half a pound; waſhed Hog-lice three ounces; cleanſed Earth-worms, one pound; of the beſt Caſtore<g ref="char:EOLhyphen"/>um one dram. To theſe being cut and bruiſed pour ſix pounds [<hi>viz.</hi> three quarts] of Poſſet-drink made with white-wine: diſtill them in a Common Still, let the whole Liquor be mingled: The Doſe is from one ounce to two ounces twice in a day, after the taking of ſome ſolid Medicine.</p>
+                     </div>
+                  </div>
+                  <div n="22" type="chapter">
+                     <head>
+                        <hi>CHAP. XXII.</hi> Chymical Specifics; Alſo of Sweat<g ref="char:EOLhyphen"/>ing and Bathing.</head>
+                     <p>AMong the Remedies. which are approved in this Affect,
+<pb n="79" facs="tcp:110147:51"/>that w<hi rend="sup">ch</hi> was invented by the ho<g ref="char:EOLhyphen"/>norable <hi>Boyle</hi> called by the name of <hi>Ens Veneris</hi>) is exceeding fa<g ref="char:EOLhyphen"/>mous. It is compoſed of <hi>Salt Armoniac,</hi> and edulcorated <hi>Col<g ref="char:EOLhyphen"/>cothar,</hi> ſublimed twice or thrice together. The Doſe is from three Grains to ſix, in ſome conveni<g ref="char:EOLhyphen"/>ent Liquor, at the hour of ſleep: I ſuppoſe the efficacy of that Me<g ref="char:EOLhyphen"/>dicine chiefly ariſeth from the <hi>Salt Armoniac,</hi> in as much as by rea<g ref="char:EOLhyphen"/>ſon of the very great tenuity of its parts, it is highly uſeful to take away the Obſtructions that do procure this Malady: and it is likewiſe probable, that the <hi>Flow<g ref="char:EOLhyphen"/>ers</hi> of <hi>Salt Armoniac</hi> are ſublimed together with the <hi>Colcothar,</hi> a cer<g ref="char:EOLhyphen"/>tain narcotick Sulphur of the <hi>Colcothar,</hi> of an Earthy or Copper<g ref="char:EOLhyphen"/>like nature or Quality, doth aſ<g ref="char:EOLhyphen"/>cend
+<pb n="80" facs="tcp:110147:52"/>together with the <hi>Salt Ar<g ref="char:EOLhyphen"/>moniac:</hi> And that kind of Sulphur ſeemeth not very meet for this Diſeaſe.</p>
+                     <p>A certain <hi>Artificial Salt</hi> of an Armoniac quality, and of nota<g ref="char:EOLhyphen"/>ble vertue, may be compoſed af<g ref="char:EOLhyphen"/>ter this manner.</p>
+                     <p>Take of the Volatile Salt of <hi>Harts-Horne,</hi> Blood, or Urine, a ſufficient quantity; upon which being put into a long Vial, pour rectified Spirit of <hi>Salt,</hi> or of <hi>Sul<g ref="char:EOLhyphen"/>phur</hi> rectified <hi>per campanam,</hi> drop by drop, untill Ebullition can no longer be excited; this Salt be<g ref="char:EOLhyphen"/>ing reſolved, let it be filtered, and by a gentle heat reduced to the dryneſs of a Salt. The Doſe is three or four Grains very ear<g ref="char:EOLhyphen"/>ly in the morning, or at the hour of ſleep, in ſome appropriated Li<g ref="char:EOLhyphen"/>quor.</p>
+                     <pb n="81" facs="tcp:110147:52"/>
+                     <p>Furthermore, thoſe things which conſiſt of Volatile Salt purely ſaltiſh, bring notable help in this Diſeaſe, in which rank are <hi>Spirit</hi> of <hi>Blood,</hi> of <hi>Harts Horn,</hi> of <hi>Salt Armoniac,</hi> and the like: But a<g ref="char:EOLhyphen"/>bove all, thoſe Spirits being im<g ref="char:EOLhyphen"/>pregnated with Amber, or Caſto<g ref="char:EOLhyphen"/>reum.</p>
+                     <p>
+                        <hi>Elixir Proprietatis,</hi> with the <hi>Tincture</hi> of <hi>Salt</hi> of <hi>Tartar,</hi> or pre<g ref="char:EOLhyphen"/>pared after the vulgar manner, may alſo be made uſe of, for as much as it is not only a very good Digeſtive, but the ſame is like<g ref="char:EOLhyphen"/>wiſe profitable to deſtroy Worms and to hinder the Corruption of Humours, and gently to ſubduce the Belly, the Doſe is from ſix Grains to ten, in two Spoonfuls of a convenient Liquor.</p>
+                     <p>If the <hi>Lungs</hi> are ſtuft (as they
+<pb n="82" facs="tcp:110147:53"/>are wont to be) with <hi>Viſcid Hu<g ref="char:EOLhyphen"/>mours,</hi> and the <hi>Meſentery</hi> be affe<g ref="char:EOLhyphen"/>cted with <hi>Strumous Glandules,</hi> the <hi>Balſome</hi> of <hi>Sulphur</hi> may be exhi<g ref="char:EOLhyphen"/>bited; whereof three or four Drops are to be taken in ſome convenient Liquor or Syrup.</p>
+                     <p>In ſome Caſes alſo the uſe of <hi>Steel</hi> is neceſſary, inaſmuch as it is endued with a notable opening Quality, and doth not only help Concoction, but alſo confirms and ſtrengthens the tone of the Bowels, yet it is not to be uſed without caution; for in the <hi>Cough, Pluriſie, Obſtruction</hi> of the <hi>Lungs, Hectick, Feavers,</hi> and other Diſeaſes of that kind, we muſt al<g ref="char:EOLhyphen"/>together abſtain from the uſe of <hi>Steel.</hi>
+                     </p>
+                     <p>Unto the aforeſaid Medicines <hi>Diaphoretics,</hi> or ſuch as provoke
+<pb n="83" facs="tcp:110147:53"/>Sweat, may ſometimes be added As the Decoction of <hi>Guaiacum,</hi> and others of that ſort, which may be taken in Bed, and Sweat procured ſuitable to the ſtrength of the Patient.</p>
+                     <p>Hitherto alſo may be referr'd the uſe of a <hi>natural Bath,</hi> ſuch as the <hi>Bathonian Wells,</hi> which are much commended to provoke Sweat, and to ſtrengthen the Nerves in this affect. And truly I have often found by obſervation, that the uſe of the aforeſaid Baths doth very much conduce to allay the ſwelling of the <hi>Abdomen,</hi> which in this Malady is wont to be very remarkable: Likewiſe <hi>Artificial Baths</hi> made of <hi>Cephalick Herbs,</hi> and <hi>Tartar</hi> or <hi>Nitre</hi> boyl'd in Water, may be made uſe of.</p>
+                     <p>The following <hi>Fomentation</hi> is
+<pb n="84" facs="tcp:110147:54"/>much approv'd; to wit, The ſick Party being plac'd in a Veſſel ſufficiently large: Put Mault which has been a while infus'd in boyling Water, (as is uſual in the Brewing of Beer, or Ale,) [or freſh <hi>Grains</hi>] round about him, luke-warm, and let the Pa<g ref="char:EOLhyphen"/>tient, almoſt covered therewith, remain therein to Sweat.</p>
+                  </div>
+                  <div n="23" type="chapter">
+                     <head>
+                        <hi>CHAP. XXIII.</hi> Of Remedies that correct the Symptoms.</head>
+                     <p>MOreover, conſideration muſt be had of the Symptoms that are conſequent to this Diſ<g ref="char:EOLhyphen"/>eaſe; of which the moſt frequent
+<pb n="85" facs="tcp:110147:54"/>is the <hi>Looſeneſs</hi> or Flux of the Belly; to the Cure whereof, the more gentle <hi>Catharticks,</hi> (ſuch as the infuſio<g ref="char:cmbAbbrStroke">̄</g> of <hi>Rhubarb, Tamarinds,</hi> and <hi>Sanders,</hi> or a <hi>Bolus</hi> compound<g ref="char:EOLhyphen"/>ed of them,) do principally con<g ref="char:EOLhyphen"/>duce; But ſometimes alſo we muſt come to <hi>Aſtringents,</hi> and <hi>O<g ref="char:EOLhyphen"/>piates,</hi> Purgation nevertheleſs and <hi>Vomiting</hi> being now and then pre<g ref="char:EOLhyphen"/>mis'd; Forms whereof may be found here and there amongſt Authors.</p>
+                     <p>Furthermore, <hi>Immoderate Sweat</hi> is wont to afflict the Patient in this Affect; which, if it come upon the Fit of a Feaver, may be Critical, and ought not raſhly to be reſtrained, but if the ſame flow inordinately and without cauſe, it is a ſign that the Body is oppreſt with <hi>Cacochymical Hu<g ref="char:EOLhyphen"/>mours;</hi>
+                        <pb n="86" facs="tcp:110147:55"/>and in ſuch caſe that kind of Sweat is to be amended by <hi>Gentle Purgation</hi> adminiſtred be<g ref="char:EOLhyphen"/>tween whiles. But let Purging be chiefly inſtituted of <hi>Rhubarb: Vomiting</hi> alſo may bring help here; neither are <hi>Aperitives,</hi> and ſuch as help Concoction to be omitted.</p>
+                     <p>Laborious Dentition, or <hi>pain<g ref="char:EOLhyphen"/>ful Breeding of Teeth,</hi> is familiar to this Diſeaſe, and often indu<g ref="char:EOLhyphen"/>ceth a Feaver. In which caſe, make gentle Evacuation, chiefly with <hi>Clyſters;</hi> although ſome<g ref="char:EOLhyphen"/>times Purgation, and Vomiting alſo, (which being gently pro<g ref="char:EOLhyphen"/>vok'd, is much approv'd) may be uſed. If a Tooth be about to cut the Gum, Nurſes are wont to rub the ſame with a piece of ſmooth <hi>Coral;</hi> but the <hi>Root of Marſh-mallows,</hi> or of <hi>Sharp point<g ref="char:EOLhyphen"/>ed
+<pb n="87" facs="tcp:110147:55"/>Dock,</hi> may ſupply it's ſtead: And ſometimes it will be worth your while to make way for the Tooth ready to burſt out by <hi>Section.</hi> Likewiſe <hi>Epiſpaſtic</hi> or drawing <hi>Plaiſters</hi> applied behind the Ears, bring eaſe. But if Do<g ref="char:EOLhyphen"/>lour and Watchfulneſs do urge, <hi>Hypnoticks,</hi> ſuch as <hi>Syrup of Pop<g ref="char:EOLhyphen"/>pies,</hi> to the weight of one or two Drams, may be exhibited.</p>
+                     <p>Beſides internal Medicines and Chirurgical Remedies, External likewiſe are to be uſed; of which rank are all ſorts of Exerciſe. If ſtrength will bear, let walking be much uſed; or, at leaſt, let the little Children play ſitting, and be exercis'd by toſſing them to and fro in the Nurſes Arms, and rocking him in the Cradle: For, by Exerciſe, the Influx of
+<pb n="88" facs="tcp:110147:56"/>the Blood and Animal Spirits, is promoted to the Muſculous Parts, where upon Heat is excited in the ſame ready to languiſh. The Maſs of Blood too is ſtir'd up to a ſwifter Morion by the conſtricti<g ref="char:EOLhyphen"/>on of the Muſcles; and the ſame is work'd up and down in the Lungs by reaſon of the more ve<g ref="char:EOLhyphen"/>hement Reſpiration caus'd by Ex<g ref="char:EOLhyphen"/>erciſe, and is impregnated with fermentative Particles; whereas, on the other ſide, the Blood by continual Reſt grows grumous, thick, or as it were clotted, and ſo becomes more apt to cauſe Obſtructions.</p>
+                     <p>
+                        <hi>Frictions</hi> (or rubbing of the parts) which are perform'd with warm Woollen-Clothes, are of no ſmall moment in the Cure of this Diſeaſe. The Parts to be
+<pb n="89" facs="tcp:110147:56"/>rubb'd are the <hi>Back-Bone,</hi> (which doth principally ſuffer, as we have ſhewn,) and the <hi>Muſculous</hi> Parts; but with this Caution, that you muſt forbear to rub on that ſide of the Bones that ſtands outward, but the concave parts of the Bones may be rubb'd more liberally, the Reaſon whereof we have aſſign'd before.</p>
+                     <p>Hitherto alſo belongs the Con<g ref="char:EOLhyphen"/>trectation of the <hi>Hypochondria,</hi> whereby the Bowels are ſome<g ref="char:EOLhyphen"/>times lifted up, and ſometimes de<g ref="char:EOLhyphen"/>preſſed, by thruſting of the Fing<g ref="char:EOLhyphen"/>ers-ends now and then under the <hi>Falſe-Ribs:</hi> For by this means we prevent the Liver and other Bow<g ref="char:EOLhyphen"/>els from their preternatural grow<g ref="char:EOLhyphen"/>ing to the <hi>Peritoneum,</hi> or other<g ref="char:EOLhyphen"/>wiſe, which happens not ſeldome in this Affect, by reaſon of the
+<pb n="90" facs="tcp:110147:57"/>tenſion of the <hi>Hypochondria.</hi>
+                     </p>
+                     <p>Moreover, <hi>Ligatures</hi> fitted to the Thigh and Leg upon the Knee, and to the Arms upon the Elbow avail much; but they muſt be looſe enough and foft, ſo as they may not hinder the incre<g ref="char:EOLhyphen"/>ment or thriving of the Part whereunto they are applied: For the Utility of Ligatures conſiſteth in this; that they help to revel the afflux of Blood from the Head, &amp; to deduce it towards the extenua<g ref="char:EOLhyphen"/>ted Parts To this Title may be e<g ref="char:EOLhyphen"/>fer'd <hi>Faſciatio<g ref="char:cmbAbbrStroke">̄</g>,</hi> or the Swathing of certain parts; as likewiſe <hi>button'd-Boots,</hi> w<hi rend="sup">ch</hi> help much not only to ſtrengthen the Parts, but further to correct the Crookedneſs of the Bones, and bending of the Joynts. But in the uſe of theſe, care muſt be taken, that they preſs down a little the protuberant part of the
+<pb n="91" facs="tcp:110147:57"/>Bone, but hardly touch the hol<g ref="char:EOLhyphen"/>low part.</p>
+                     <p>To erect the Trunk of the Bo<g ref="char:EOLhyphen"/>dy, <hi>Boddice</hi> may be made of two Clothes ſewed together, thick beſet with Shingles, or Lath-like pieces of <hi>Whale-bone,</hi> which muſt be fitted to the Bodies of the In<g ref="char:EOLhyphen"/>fants, ſo as the Spine be held up<g ref="char:EOLhyphen"/>right, and the prominent Bones repreſſed.</p>
+                     <p>Neither muſt we here omit the <hi>Artificial Suſpenſion</hi> of the Body by the aſſiſtance of a certain pen<g ref="char:EOLhyphen"/>dulous Inſtrument made after ſuch a manner with Swathing<g ref="char:EOLhyphen"/>bands, that it croſſeth the Breaſt coming under the Arm-pits, and goeth about the Head, and under the Chin, and then receiveth the Hands with two Handles, where<g ref="char:EOLhyphen"/>by the weight of the Body is
+<pb n="92" facs="tcp:110147:58"/>ſuſtained, partly by the Child's hands, partly by his head, and partly by his Arm-pits.</p>
+                     <p>Now at laſt let us ſet down ſome of thoſe things which are outwardly to be applied.</p>
+                     <p>A <hi>Fomentation</hi> of any ſort of <hi>Wine,</hi> as alſo of common <hi>Aqua vitae,</hi> doth avail much to corro<g ref="char:EOLhyphen"/>borate the Nervous parts; apply the ſame to the debilitated Parts, and eſpecially to the <hi>Spine,</hi> and then anoint thoſe parts with pro<g ref="char:EOLhyphen"/>per Oyl or Unguent, of w<hi rend="sup">ch</hi> here<g ref="char:EOLhyphen"/>after. In lieu of Wine, the follow<g ref="char:EOLhyphen"/>ing Decoctio<g ref="char:cmbAbbrStroke">̄</g> may be made uſe of as,</p>
+                     <div type="recipe">
+                        <head>A Fomentation.</head>
+                        <p>Take of the root of Oſmond<g ref="char:EOLhyphen"/>royal and Male Fern, each three ounces; of the Flowers of Beto<g ref="char:EOLhyphen"/>ny, Sage, Roſemary, Marjoram, Water-Creſſes, each, one hand<g ref="char:EOLhyphen"/>ful;
+<pb n="93" facs="tcp:110147:58"/>of the Flowers of Chamo<g ref="char:EOLhyphen"/>mil, Melilot, and Elder, each a ſmall handful; Bay-berries, Ju<g ref="char:EOLhyphen"/>niper-berries, of each, half an ounce. Boyl them in a ſufficient quantity of Spring-water, to two pound; put thereto of White<g ref="char:EOLhyphen"/>wine, or common <hi>Aqua vitae,</hi> one pound. Keep the ſtraining for uſe.</p>
+                     </div>
+                     <div type="recipe">
+                        <head>An Oyntment for the debili<g ref="char:EOLhyphen"/>tated Parts.</head>
+                        <p>Take of the Leaves of Elder, Bay, Marjoram, Sage, Roſemary, Betony, tops of Lavender, each two handfuls; Bay-berries, Juni<g ref="char:EOLhyphen"/>per-berries, of <gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ach, one ounce: Put theſe being cut and bruiſed into a convenient Veſiel, with three pound of May-butter, or
+<pb n="94" facs="tcp:110147:59"/>freſh Butter unſalted, and half a pint of <hi>Aqua vitae;</hi> boylthem gent lyto the conſumption of the <hi>Aqua vitae:</hi> To the expreſſion being yet hot, add of Oyl of Nutmegs made by expreſſion, half an ounce; of <hi>Peruvian</hi> Balſom, one dram; mix them, make an Unguent: Inſtead of May-butter, Beef-mar<g ref="char:EOLhyphen"/>row, or Deer's-ſuet, and Oyl of Earth-worms, or Fox-oyl, of each one pound and a half may be ſubſtituted.</p>
+                        <p>Apply Unguents pretty warm, before a clear fire, and rub them on with a hot hand until they be dry; that it may penetrate the more, mix a little of ſome proper Liquor with the ſame, in the time of uſing.</p>
+                        <p>If the <hi>Abdomen</hi> be ſtretch'd out, and tumid, apply the following Oyntment.</p>
+                     </div>
+                     <div type="recipe">
+                        <pb n="95" facs="tcp:110147:59"/>
+                        <head>A Liniment for the Swelling of the <hi>Abdomen.</hi>
+                        </head>
+                        <p>Take of the Oyls of Capers, Wormwood, and Elder, each one ounce; of <hi>
+                              <g ref="char:V">Ʋ</g>ng. è ſucc. aperiti<g ref="char:EOLhyphen"/>vis,</hi> or the Unguent above pre<g ref="char:EOLhyphen"/>ſcribed, one ounce and a half; of Gum-Ammoniac diſſolv'd in Vin<g ref="char:EOLhyphen"/>egar, half an ounce: Make a Liniment; wherewith a little portion of the following Liquor may be mingled in the time of uſing it.</p>
+                     </div>
+                     <div type="recipe">
+                        <head>A Decoction to be uſed with the Liniment.</head>
+                        <p>Take of the Root of White Briony, one ounce; of the Leaves of Worm-wood, Centory, Sage,
+<pb n="96" facs="tcp:110147:60"/>each, one handful; Flowers of Elder, and Melilot, of each a ſmall handful; of Bay-berries, Juni<g ref="char:EOLhyphen"/>per-berries, each two drams: Boyl them in three pounds of Spring-water, to the waſting of half; add thereto of Rheniſh<g ref="char:EOLhyphen"/>wine half a pint. Keep the ſtrain<g ref="char:EOLhyphen"/>ing for your uſe.</p>
+                        <p>Whilſt the Unguents are ap<g ref="char:EOLhyphen"/>plied to the <hi>Hypochondria,</hi> let the Nurſe handle the <hi>Viſcera</hi> or Bow<g ref="char:EOLhyphen"/>els, as is before directed. Em<g ref="char:EOLhyphen"/>plaſters alſo can in this part bring help;</p>
+                     </div>
+                     <div type="recipe">
+                        <head>A Plaiſter for the <hi>Hypochondria.</hi>
+                        </head>
+                        <p>Take of the compound Em<g ref="char:EOLhyphen"/>plaſter of Melilot, as much as will ſuffice; ſpread it on taw'd Leather, and apply it to the <hi>Hy<g ref="char:EOLhyphen"/>pochondria.</hi>
+                        </p>
+                        <pb n="97" facs="tcp:110147:60"/>
+                        <p>If there be a Tumour near the Region of the Liver; add to one Ounce of the aforeſaid Emplaſter, of yellow Sanders powdered one dram; of Oyl of Wormwood, and Wax as much as ſufficeth to make an Emplaſter.</p>
+                     </div>
+                     <div type="recipe">
+                        <head>Another.</head>
+                        <p>Take the Juice of Brook<g ref="char:EOLhyphen"/>lime, Water-creſſes, Elder, and Worm-wood, of each one Ounce; Let the clarified Juices be redu<g ref="char:EOLhyphen"/>ced by a gentle heat, to the con<g ref="char:EOLhyphen"/>ſiſtence of an Extract; to which add of <hi>Gum-Ammoniac</hi> diſſolved in Vinegar, and boyled to a thick<g ref="char:EOLhyphen"/>neſs, two ounces; of Venice Turpentine one ounce; of Yel<g ref="char:EOLhyphen"/>low Sanders powder'd 2 drams, of Oyl of Capers, and Wax as much
+<pb n="98" facs="tcp:110147:61"/>as is ſufficient: make a Plaiſter to be applied as before.</p>
+                        <p>If the Lungs be affected, An<g ref="char:EOLhyphen"/>oint the Breaſt with <hi>
+                              <g ref="char:V">Ʋ</g>nguent. Pe<g ref="char:EOLhyphen"/>ctorale,</hi> or <hi>Dialthaea,</hi> or both mixt together, wherewith at the time of inunction, you muſt mix ſome oyl of Nutmegs made by Expreſ<g ref="char:EOLhyphen"/>ſion.</p>
+                     </div>
+                     <div type="recipe">
+                        <head>A Pectoral <g ref="char:V">Ʋ</g>nguent.</head>
+                        <p>Take of Green Liquorice, four ounces; of freſh unſalted Butter one pound, Bruiſe them together in a ſtone Mortar, and macerate them in a Bath four hours, then ſtrain them; repeat this three times with an equal quantity of of freſh Liquorice, Let the Oynt<g ref="char:EOLhyphen"/>ment clarified accerding to art, be kept for uſe: Where with in
+<pb n="99" facs="tcp:110147:61"/>the time of uſing, you may mix an equal quantity of <hi>
+                              <g ref="char:V">Ʋ</g>ng. Pecto<g ref="char:EOLhyphen"/>rale,</hi> with a little Oyl of Nutmegs made by expreſſion.</p>
+                        <p>Foraſmuch as this Diſeaſe doth ariſe from the obſtruction and debilitie of the <hi>Spinalis Medulla,</hi> corroborating Fomentations, and Unguents, ſuch as are now al<g ref="char:EOLhyphen"/>ready preſcribed, may be there<g ref="char:EOLhyphen"/>to applied, wherewith <hi>Balſome</hi> of <hi>Tolu</hi> may be mixt in a ſmall quan<g ref="char:EOLhyphen"/>tity; ſuch are <hi>Emplaſtrum Ner<g ref="char:EOLhyphen"/>vinum, de Betonicâ,</hi> as alſo that which follows.</p>
+                     </div>
+                     <div type="recipe">
+                        <head>An Emplaſter for the <hi>Spine.</hi>
+                        </head>
+                        <p>Take of the firſt preſcribed Oyntment, two ounces; Gum Ammoniac diſſolv'd in Vinegar, and Burgundy-Pitch, of each half an ounce; Maſtich, Frank<g ref="char:EOLhyphen"/>incenſe,
+<pb n="100" facs="tcp:110147:62"/>and Caranna, of each two drams; of Caſtoreum, half a dram; of prepar'd Earth-Worms, one dram and a half; of Salt Armo<g ref="char:EOLhyphen"/>niac, two drams: Wax enough to make an Emplaſter; ſpread a ſufficient quantity of this upon taw'd-Leather, whoſe Form may be varied; for as the ſuperiour or inferiour Parts are infirm, the Plaiſter is to be applied to the upper or lower part of the <hi>Spine,</hi> and ſometimes according to the whole length of it: And ſo much for the Method of Curing the <hi>RICKETS.</hi>
+                        </p>
+                     </div>
+                  </div>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:110147:62"/>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div n="apendix" type="title_page">
+                  <pb facs="tcp:110147:63"/>
+                  <pb facs="tcp:110147:63"/>
+                  <p>AN APPENDIX TOUCHING WEIGHTS AND MEASURES Us'd in the Compoſition of Medi<g ref="char:EOLhyphen"/>cines, and in the Exhibition of Medicinal Doſes.</p>
+                  <p>BY <hi>W.S.</hi>
+                  </p>
+                  <p>
+                     <hi>Gradibus venit</hi> Incrementum.</p>
+                  <p>
+                     <hi>OXFORD,</hi> Printed by <hi>Leon. Lichfield,</hi> Printer to the Univerſity, for <hi>Tho. Fickus</hi> Bookſeller. 1684.</p>
+               </div>
+            </front>
+            <body>
+               <div type="appendix">
+                  <pb facs="tcp:110147:64"/>
+                  <pb n="1" facs="tcp:110147:64"/>
+                  <head>An Appendix touching <hi>Medi<g ref="char:EOLhyphen"/>cal Weights</hi> and <hi>Meaſures.</hi>
+                  </head>
+                  <div n="weights" type="part">
+                     <head>
+                        <hi>I.</hi> Of MEDICAL WEIGHTS.</head>
+                     <p>THE Aeſtimation or Value of all things is deduc'd from Number, Weight, or Meaſure. Now, as for Num<g ref="char:EOLhyphen"/>ber, there is the ſame Reaſon and Accompt univerſally diſ<g ref="char:EOLhyphen"/>pers'd throughout all the Regi<g ref="char:EOLhyphen"/>ons of the World: But, as to Weight or Meaſure, it is not ſo; for there is a vaſt Variety, every
+<pb n="2" facs="tcp:110147:65"/>Government vindicating it's pro<g ref="char:EOLhyphen"/>per Weight, and it's proper Mea<g ref="char:EOLhyphen"/>ſure, which beareth the Name or Title of it's peculiar Country. And whereas, above all things, whatſoever is inſtituted for Me<g ref="char:EOLhyphen"/>dicinal uſe, it ought to be con<g ref="char:EOLhyphen"/>fin'd to ſure and common Rules; certainly then <hi>Weights ſhould be eſtabliſh'd certain and common to all men,</hi> that by a General Law and Cuſtom, there may be a General Conſent and Agreement among all Nations; it being a Matter of no ſmall moment, if we rightly conſider the Scope we aim at in the uſe of them: For upon theſe oftentimes depends the Life, or Death, of the Patient.</p>
+                     <p>Therefore, that a true Know<g ref="char:EOLhyphen"/>ledge thereof may be had, we ſhall deſcribe, Firſt, What kind
+<pb n="3" facs="tcp:110147:65"/>of <hi>Weights</hi> Phyſitians and A<g ref="char:EOLhyphen"/>pothecaries do ordinarily uſe; Secondly, Their <hi>Contents</hi> or Pon<g ref="char:EOLhyphen"/>deration, and their Marks, Notes or Characters; Thirdly, And Laſtly, the whole <hi>Series</hi> ſhall be comprehended in a formal Scheme or Table adapted to the Memory: The like Method (as near as we can) ſhall be obſerved when we come to treat of <hi>Meaſures.</hi>
+                     </p>
+                     <p n="1">1. In the firſt place then, you muſt by the way take notice, that to effect the confirmation of a certain and common Rule as a<g ref="char:EOLhyphen"/>foreſaid, a <hi>Minute,</hi> or ſmalleſt Weight, (from which, as from a Spring-head, being augmented by continual Addition, the reſt do accrew) muſt be ordained; even as <hi>Geometry</hi> hath it's <hi>Punctum,</hi> whence all Lines have their Riſe
+<pb n="4" facs="tcp:110147:66"/>or Beginning; and <hi>Arithmetick</hi> it's <hi>
+                           <g ref="char:V">Ʋ</g>nity,</hi> from which the large Family of Numbers derive their Pedigree.</p>
+                     <p>The ſmalleſt Weight made uſe of in Phyſical Concerns, is term<g ref="char:EOLhyphen"/>ed a <hi>Grain,</hi> upon which the other Weights do rely, as their <hi>Baſis;</hi> and it is fit and expedient, that the ſame ſhould be conſtant, al<g ref="char:EOLhyphen"/>lowable and firm: Wherefore it cannot be a Grain of Barley, Wheat, Vetch or Pulſe, (as ſome fooliſhly imagine) by reaſon that no Nation produceth them of e<g ref="char:EOLhyphen"/>qual Weight; but that Minute Money-weight which Goldſmiths call a <hi>Grain,</hi> (and in Latine may juſtly be termed <hi>Momentum,</hi> as well as <hi>Granum,</hi>) is rated and accompted the ſame in all Na<g ref="char:EOLhyphen"/>tions throughout the habitable
+<pb n="5" facs="tcp:110147:66"/>Orb, which the ſacred Hunger of Gold, and furious Luſt after Riches, doth keep unviolated and uncorrupted, and that too by Marks and Patterns tranferr'd to all Places.</p>
+                     <p>From this Minute Weight, <hi>viz,</hi> a <hi>Grain,</hi> do ariſe the greater, (that is to ſay) the <hi>Scriptule</hi> or <hi>Scruple,</hi> the <hi>Drachm</hi> or <hi>Dram,</hi> the <hi>Ounce,</hi> and the <hi>Pound.</hi> Even as many Grains of <hi>Corn</hi> conſtitute an an <hi>Ear,</hi> and many Ears create a <hi>Crop</hi> for the painful Husband-man: So a more certain Addition of <hi>Grain-weights</hi> make up a <hi>Scruple,</hi> certain <hi>Scruples</hi> a <hi>Dram,</hi> and ſo forward, as I am about to ſet down. And no doubt for that reaſon, the word <hi>Granum</hi> is me<g ref="char:EOLhyphen"/>taphorically attributed to the ſmalleſt Weight, from a diſcreet
+<pb n="6" facs="tcp:110147:67"/>and gradual augmentation where<g ref="char:EOLhyphen"/>of (as from a Fountain) all the reſt do flow:</p>
+                     <p n="2">2. Having thus lay'd the Foun<g ref="char:EOLhyphen"/>dation of our Work, we (loving method) come next to ſpeak of the <hi>Scriptule</hi> or <hi>Scruple,</hi> formerly conſiſting of twenty four Grains, which the word <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, us'd by the <hi>Grecians pro ſcriptulo,</hi> doth plainly denote; and for that rea<g ref="char:EOLhyphen"/>ſon <hi>Scriptules</hi> or Scruples are called by them <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, becauſe a <hi>Scruple</hi> then did, and now ought to conſiſt of as many <hi>Grains</hi> or Minute-weights, as they have Characters or Letters in their Alphabet: But now adays the ſame retains but Twen<g ref="char:EOLhyphen"/>ty Grains. So then 'tis not incredi<g ref="char:EOLhyphen"/>ble that the ancient Weight hath been diminiſhed and adulteraetd
+<pb n="7" facs="tcp:110147:67"/>through the Avarice of Druggiſts and others who buy their Com<g ref="char:EOLhyphen"/>modities by the greateſt Weight they can, and vend the ſame by as light ones as they dare.</p>
+                     <p>Next in order followeth the <hi>Drachm</hi> or <hi>Dram,</hi> in which are contained <hi>Three Scruples;</hi> and ſo conſequently <hi>Sixty Grains.</hi>
+                     </p>
+                     <p>To this we ſubjoyn the <hi>Ounce Weight,</hi> wherein are comprehend<g ref="char:EOLhyphen"/>ed, <hi>Eight Drams,</hi> or <hi>Twenty four Scruples</hi> or <hi>Four Hundred</hi> and <hi>Eighty Grains.</hi>
+                     </p>
+                     <p>And laſtly, the Phyſical <hi>Pound</hi> (which is Troy-weight) retains only <hi>Twelve Ounces,</hi> and by this moſt aqueous Liquors are meaſu<g ref="char:EOLhyphen"/>red, as ſhall be ſhewn hereafter: But the Druggiſts and Grocers <hi>Pound</hi> (being <hi>Aver dupoiſ-weight</hi>) doth conſiſt of <hi>Sixteen Ounces;</hi> and
+<pb n="8" facs="tcp:110147:68"/>is indeed generally made uſe of among the Apothecaries. Where<g ref="char:EOLhyphen"/>fore we contract the whole Series of our buiſneſs in this manner.</p>
+                     <p>A <hi>Grain</hi> is the leaſt Weight uſually preſcrib'd in Phyſick, and is thus noted, <hi>Gr.</hi>
+                     </p>
+                     <p>A <hi>Scruple</hi> hath <hi>Twenty Grains,</hi> and is mark'd thus, ℈.</p>
+                     <p>A <hi>Dram</hi> weigheth <hi>Three Scru<g ref="char:EOLhyphen"/>ples,</hi> and hath this Character, <g ref="char:dram">ʒ</g>.</p>
+                     <p>An <hi>Ounce</hi> containing <hi>Eight Drams,</hi> beareth this Signature, ℥.</p>
+                     <p>A <hi>Pound-Troy,</hi> (of which we ſhall take notice in this place, as ſolely <hi>de jure bono</hi> appertaining to Medical Ponderation,) contain<g ref="char:EOLhyphen"/>eth <hi>Twelve Ounces,</hi> and is known by this mark, <hi>lb.</hi>
+                     </p>
+                     <p n="3">3. That I may not fruſtrate the Reader's expectation, it now remains that I preſent to his view
+<pb n="9" facs="tcp:110147:68"/>the following Table of <hi>Troy-weight,</hi> and withal declare the uſe of it.</p>
+                     <p>
+                        <table>
+                           <head>The Table of <hi>WEIGHTS.</hi>
+                           </head>
+                           <row>
+                              <cell role="label">The Characters</cell>
+                              <cell role="label">℥</cell>
+                              <cell role="label">
+                                 <g ref="char:dram">ʒ</g>
+                              </cell>
+                              <cell role="label">℈</cell>
+                              <cell role="label">Gr.</cell>
+                           </row>
+                           <row>
+                              <cell>
+                                 <hi>1</hi> Pound <hi>contains</hi>
+                              </cell>
+                              <cell>
+                                 <hi>12</hi>
+                              </cell>
+                              <cell>
+                                 <hi>96</hi>
+                              </cell>
+                              <cell>
+                                 <hi>288</hi>
+                              </cell>
+                              <cell>
+                                 <hi>5760</hi>
+                              </cell>
+                           </row>
+                           <row>
+                              <cell>
+                                 <hi>1</hi> Ounce <hi>contains</hi>
+                              </cell>
+                              <cell> </cell>
+                              <cell>
+                                 <hi>8</hi>
+                              </cell>
+                              <cell>
+                                 <hi>24</hi>
+                              </cell>
+                              <cell>
+                                 <hi>480</hi>
+                              </cell>
+                           </row>
+                           <row>
+                              <cell>
+                                 <hi>1</hi> Dram <hi>contains</hi>
+                              </cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                              <cell>
+                                 <hi>3</hi>
+                              </cell>
+                              <cell>
+                                 <hi>60</hi>
+                              </cell>
+                           </row>
+                           <row>
+                              <cell>
+                                 <hi>1</hi> Scruple <hi>contains</hi>
+                              </cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                              <cell>
+                                 <hi>20</hi>
+                              </cell>
+                           </row>
+                        </table>
+                     </p>
+                     <p>This Table needs no Explication; but, as for it's <g ref="char:V">Ʋ</g>ſe or Application, it ſhall be made manifeſt by <hi>Examples,</hi> for the ſake of <hi>Tyroes</hi> and others who may ſtand in need thereof.</p>
+                     <div n="1" type="example">
+                        <pb n="10" facs="tcp:110147:69"/>
+                        <head>I. <hi>Example.</hi>
+                        </head>
+                        <p>AN Apothecary made up a Pilulary Maſs weighing one Pound and a half; he was re<g ref="char:EOLhyphen"/>queſted by a Phyſitian living in the Country, to convey the ſame to him (form'd into Pills) in little Boxes, <hi>viz.</hi> a Dram in each Box. Now to know how many Boxes are required; or how ma<g ref="char:EOLhyphen"/>ny Drams the ſaid Maſs will pro<g ref="char:EOLhyphen"/>duce. Seek the Denomination or Title I <hi>Pound</hi> (in words at length) towards the left hand, and this Character <g ref="char:dram">ʒ</g> on the top, and at the Angle of meeting you will find 96 the Number of drams contain'd in I Pound; to which if you add 48 the half-number for the Half-pound, the Aggregate will be 144 the Number ſought for.</p>
+                     </div>
+                     <div n="2" type="example">
+                        <pb n="11" facs="tcp:110147:69"/>
+                        <head>2. <hi>Example.</hi>
+                        </head>
+                        <p>A Phyſitian preſcribed a Speci<g ref="char:EOLhyphen"/>fick Powder, whoſe Compo<g ref="char:EOLhyphen"/>ſition weighed ℥<hi>ij,</hi> 
+                           <g ref="char:dram">ʒ</g>
+                           <hi>iij,</hi> and ℈<hi>iſs.</hi> Half a Dram at a time thereof to be taken by the Patient in a pro<g ref="char:EOLhyphen"/>per Vehicle: The <hi>Quoery</hi> is, how many Doſes were contain'd in the whole Compoſition?</p>
+                        <p>Looking into the fore-going Table in manner aforeſaid, you will find the matter thus; having reſpect to the number given, if it tranſcend <hi>
+                              <g ref="char:V">Ʋ</g>nity.</hi>
+                        </p>
+                        <p>
+                           <table>
+                              <row>
+                                 <cell>℥<hi>ij.</hi>
+                                 </cell>
+                                 <cell rows="3">contain</cell>
+                                 <cell>32</cell>
+                                 <cell rows="3">Doſes or Half-Drams.</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <g ref="char:dram">ʒ</g>
+                                    <hi>iij.</hi>
+                                 </cell>
+                                 <cell>6</cell>
+                              </row>
+                              <row>
+                                 <cell>℈<hi>iſs.</hi>
+                                 </cell>
+                                 <cell>1</cell>
+                              </row>
+                           </table>
+                        </p>
+                        <p>In all 39 Doſes.</p>
+                     </div>
+                  </div>
+                  <div n="measures" type="part">
+                     <pb n="12" facs="tcp:110147:70"/>
+                     <head>
+                        <hi>II.</hi> Of MEAS<g ref="char:V">Ʋ</g>RES.</head>
+                     <p>HAving diſcuſſed all ambiguity as touching <hi>Medical Ponde<g ref="char:EOLhyphen"/>ration,</hi> we ſhall with the more eaſe and brevity treat of <hi>Meaſ<g ref="char:EOLhyphen"/>ures;</hi> ſo much dependance have they ou the former, that without the knowledge of thoſe, no cer<g ref="char:EOLhyphen"/>tain Rule can be given for theſe.</p>
+                     <p n="1">1. Whereas great and uncer<g ref="char:EOLhyphen"/>tain is the variety of them, the Uſe of many is, not without cauſe, utterly aboliſhed; and in<g ref="char:EOLhyphen"/>ſtead of thoſe Concave Bodies, wherewith the Ancients were wont to proportionate both Dry and Liquid Subſtances, the mo<g ref="char:EOLhyphen"/>dern
+<pb n="13" facs="tcp:110147:70"/>Phyſitians every where u<g ref="char:EOLhyphen"/>ſurp Concave Meaſures, whoſe Contents are correſpondent to Troy-weights, ſome whereof are capacious of one Pound-weight, ſome of two Pounds, others of three or more Pounds; yea, o<g ref="char:EOLhyphen"/>thers containing ſmaller Weights <hi>to wit,</hi> Ounces, or Ounce, and half-Ounce, to meaſure aqueous or oleous Liquids withal, refer<g ref="char:EOLhyphen"/>ring Arid things to Weight: If leſſer Proportion be exacted, a Gueſs may ſometimes ſerve turn; where it is ineffectual or dange<g ref="char:EOLhyphen"/>rous to confide to Conjectures, the ſame is preciſely perform'd by ſmall Weights, all things being duly ballanc'd.</p>
+                     <p n="2">2. As in the Deſcription of <hi>Weights,</hi> we began with the <hi>Grain,</hi> or ſmalleſt; ſo treating of <hi>Mea<g ref="char:EOLhyphen"/>ſures
+<pb n="14" facs="tcp:110147:71"/>for Liquids,</hi> (thoſe for Arids being for the moſt part exploded) we deem it expedient to begin with the greateſt, <hi>viz.</hi> the <hi>Wine Gallon;</hi> and for brevitie's ſake ſhall ſet down it's Diviſion, Sub. diviſions, and Characters, as fol<g ref="char:EOLhyphen"/>loweth.</p>
+                     <p>
+                        <table>
+                           <head>The Greater Meaſures.</head>
+                           <row>
+                              <cell>
+                                 <hi>A Gallon</hi>
+                              </cell>
+                              <cell rows="3">Meaſure contains</cell>
+                              <cell>2 <hi>Pottles</hi>
+                              </cell>
+                              <cell rows="3">or</cell>
+                              <cell>8 <hi>Pounds.</hi>
+                              </cell>
+                           </row>
+                           <row>
+                              <cell>
+                                 <hi>A Pottle</hi>
+                              </cell>
+                              <cell>2 <hi>Quarts</hi>
+                              </cell>
+                              <cell>4 <hi>Pounds.</hi>
+                              </cell>
+                           </row>
+                           <row>
+                              <cell>
+                                 <hi>A Quart</hi>
+                              </cell>
+                              <cell>2 <hi>Pints</hi>
+                              </cell>
+                              <cell>4 <hi>Pounds.</hi>
+                              </cell>
+                           </row>
+                        </table>
+                     </p>
+                     <p>
+                        <table>
+                           <head>The Smaller Meaſures.</head>
+                           <row>
+                              <cell>
+                                 <hi>The Pint</hi>
+                              </cell>
+                              <cell rows="6">meaſure contains</cell>
+                              <cell>1 <hi>Pound-Troy,</hi> or 12 <hi>Ounces.</hi>
+                              </cell>
+                           </row>
+                           <row>
+                              <cell>
+                                 <hi>The</hi> ½ <hi>Pint</hi>
+                              </cell>
+                              <cell>6 <hi>Ounces.</hi>
+                              </cell>
+                           </row>
+                           <row>
+                              <cell>
+                                 <hi>The</hi> ¼ <hi>Pint</hi>
+                              </cell>
+                              <cell>3 <hi>Ounces.</hi>
+                              </cell>
+                           </row>
+                           <row>
+                              <cell>
+                                 <hi>The ha.</hi> ¼ <hi>P.</hi>
+                              </cell>
+                              <cell>1 <hi>Ounce</hi> and ½.</cell>
+                           </row>
+                           <row>
+                              <cell>
+                                 <hi>The Ounce</hi>
+                              </cell>
+                              <cell>1 <hi>Ounce.</hi>
+                              </cell>
+                           </row>
+                           <row>
+                              <cell>
+                                 <hi>The</hi> ½ <hi>Ounce</hi>
+                              </cell>
+                              <cell>½ <hi>Ounce.</hi>
+                              </cell>
+                           </row>
+                        </table>
+                     </p>
+                     <pb n="15" facs="tcp:110147:71"/>
+                     <p>The ſaid <hi>Meaſures</hi> are uſually expreſt by the Marks or Cha<g ref="char:EOLhyphen"/>racters of the <hi>Weights</hi> to which they are applicable; as by the ſubſequent Table (which like<g ref="char:EOLhyphen"/>wiſe, as that of Weights preced<g ref="char:EOLhyphen"/>ing is ſufficiently explanatory in it ſelf,) doth manifeſtly appear.</p>
+                     <p n="3">3. And ſo we come gradually to the Menſuration-Table it ſelf; and ſhall propoſe one Queſtion, the Reſolution whereof will give light enough, as touching the Uſe of it.</p>
+                     <pb n="16" facs="tcp:110147:72"/>
+                     <p>
+                        <table>
+                           <head>A Table of MEAS<g ref="char:V">Ʋ</g>RES for Liquids.</head>
+                           <row>
+                              <cell> </cell>
+                              <cell> </cell>
+                              <cell role="label">lb.</cell>
+                              <cell role="label">℥</cell>
+                              <cell role="label">℥ß</cell>
+                           </row>
+                           <row>
+                              <cell>1 <hi>Gallon</hi>
+                              </cell>
+                              <cell rows="9">is equiva<g ref="char:EOLhyphen"/>lent to</cell>
+                              <cell>8</cell>
+                              <cell>96</cell>
+                              <cell>192</cell>
+                           </row>
+                           <row>
+                              <cell>1 <hi>Pottle</hi>
+                              </cell>
+                              <cell>4</cell>
+                              <cell>48</cell>
+                              <cell>96</cell>
+                           </row>
+                           <row>
+                              <cell>1 <hi>Quart</hi>
+                              </cell>
+                              <cell>2</cell>
+                              <cell>24</cell>
+                              <cell>48</cell>
+                           </row>
+                           <row>
+                              <cell>1 <hi>Pint</hi>
+                              </cell>
+                              <cell>1</cell>
+                              <cell>12</cell>
+                              <cell>24</cell>
+                           </row>
+                           <row>
+                              <cell>½ <hi>Pint</hi>
+                              </cell>
+                              <cell>0</cell>
+                              <cell>6</cell>
+                              <cell>12</cell>
+                           </row>
+                           <row>
+                              <cell>¼ <hi>Pint</hi>
+                              </cell>
+                              <cell>0</cell>
+                              <cell>3</cell>
+                              <cell>6</cell>
+                           </row>
+                           <row>
+                              <cell>½ <hi>Quarter</hi>
+                              </cell>
+                              <cell>0</cell>
+                              <cell>1½</cell>
+                              <cell>3</cell>
+                           </row>
+                           <row>
+                              <cell>1 <hi>Ounce</hi>
+                              </cell>
+                              <cell>0</cell>
+                              <cell>1</cell>
+                              <cell>2</cell>
+                           </row>
+                           <row>
+                              <cell>½ <hi>Ounce</hi>
+                              </cell>
+                              <cell>0</cell>
+                              <cell>½</cell>
+                              <cell>1</cell>
+                           </row>
+                        </table>
+                     </p>
+                     <p>A pretious Liquor drawn off <hi>per Alembicum</hi> to the quantity of 3 Quarts, 1 Pint, 1 half. Pint, 1 quarter-Pint, was repos'd <hi>uncia<g ref="char:EOLhyphen"/>tim</hi> or Ounce by Ounce for com<g ref="char:EOLhyphen"/>mon Sale; now it is demanded, how many Ounce. Bottles were
+<pb n="17" facs="tcp:110147:72"/>requiſite for it's repoſition? <hi>An<g ref="char:EOLhyphen"/>ſwer</hi> 93. For</p>
+                     <p>
+                        <table>
+                           <row>
+                              <cell> </cell>
+                              <cell> </cell>
+                              <cell role="label">℥</cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell>2 <hi>Quarts</hi> or 1 <hi>Pottle</hi>
+                              </cell>
+                              <cell rows="5">is anſwer<g ref="char:EOLhyphen"/>able to</cell>
+                              <cell>48</cell>
+                              <cell rows="5">In all 93 Ounces.</cell>
+                           </row>
+                           <row>
+                              <cell>1 <hi>Quart</hi>
+                              </cell>
+                              <cell>24</cell>
+                           </row>
+                           <row>
+                              <cell>1 <hi>Pint</hi>
+                              </cell>
+                              <cell>12</cell>
+                           </row>
+                           <row>
+                              <cell>½ <hi>Pint</hi>
+                              </cell>
+                              <cell>06</cell>
+                           </row>
+                           <row>
+                              <cell>¼ <hi>Pint</hi>
+                              </cell>
+                              <cell>03</cell>
+                           </row>
+                        </table>
+                     </p>
+                     <p>☞ Note, that <hi>Oyl</hi> is lighter than <hi>Wine</hi> by a ninth part; and <hi>Honey</hi> is weightier than Wine by the half: So that whatever Meaſure containeth of VVine 9 Ounces, receiveth of Oyl but 8 Ounces, and is capable to hold 13 Ounces and an half of Honey.</p>
+                  </div>
+                  <div type="postscript">
+                     <head>POSTSCRIPT.</head>
+                     <p>IT may be expected, that I ſhould add an In<g ref="char:EOLhyphen"/>terpretation of the <hi>Grecian, Roman,</hi> and <hi>Ara<g ref="char:EOLhyphen"/>bian</hi> Weights and Meaſures, for the better un<g ref="char:EOLhyphen"/>derſtanding of ſome ancient Authors; but (they being in theſe days altogether obſolete,) I ſhall at preſent ſuperlede.</p>
+                  </div>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+            <back>
+               <div type="glossary">
+                  <pb facs="tcp:110147:73"/>
+                  <head>The moſt difficult Terms of Art, belonging to the afore-going Treatiſe and Appen<g ref="char:EOLhyphen"/>dix, Alphabetically Explained.</head>
+                  <list>
+                     <item>
+                        <hi>ABdomen.</hi> The loweſt Cavity of the Body called the Paunch or Belly, ſe<g ref="char:EOLhyphen"/>vered within, from the Breaſt by the Mid<g ref="char:EOLhyphen"/>riff, and bounden above by the Heart-pit, and beneath by the Share-bones.</item>
+                     <item>
+                        <hi>Aliment.</hi> Nouriſhment.</item>
+                     <item>
+                        <hi>Alterants or Alteratives.</hi> Medicines that change or alter the Diſcraſy or evil Diſpoſition of the Blood.</item>
+                     <item>
+                        <hi>Anodyne.</hi> That eaſeth Pains.</item>
+                     <item>
+                        <hi>Aperients or Aperitives.</hi> Medicines that open, or take away Obſtructions.</item>
+                     <item>
+                        <hi>Aphoriſms:</hi> Short general Rules.</item>
+                     <item>
+                        <hi>Arteries.</hi> Mensbranous Spermatical Veſ<g ref="char:EOLhyphen"/>ſels, which by Pulſation conveigh away the Blood from the Heart to the Veins.</item>
+                     <item>
+                        <hi>Aſcites:</hi> A kind of Dropſie wherein the Abdomen is ſwelled like a Bottle, from a watriſs humor contained within the Cavity thereof. <hi>Dr. Willis.</hi>
+                     </item>
+                     <item>
+                        <hi>Aſthma:</hi> It is a difficult &amp; purſie Breath<g ref="char:EOLhyphen"/>ing, with a great ſhaking of the Breaſt, and for the moſt part without any Feaver. <hi>D. W.</hi>
+                     </item>
+                     <item>
+                        <hi>Aſtringents.</hi> Binding Medicines.</item>
+                     <pb facs="tcp:110147:73"/>
+                     <item>
+                        <hi>Atrophy:</hi> A Conſumption of the Fleſh, when the ſame waſteth away, and the Food taken in doth not nouriſh.</item>
+                     <item>
+                        <hi>Bolus:</hi> So much of an Electuary or other ſolid Medicine as the Patient may well take at one time in his Mouth.</item>
+                     <item>
+                        <hi>Cacochymical humours. i. e.</hi> Evil or vicious humours.</item>
+                     <item>
+                        <hi>Carminative:</hi> That expelleth Wind.</item>
+                     <item>
+                        <hi>Carotid Arteries:</hi> Two Arteries in the Neck that go up to the Brain.</item>
+                     <item>
+                        <hi>Cartilage:</hi> It is a ſimilar Part; Cold, dry and void of ſenſe, flexible; and not ſo hard as a Bone; called alſo a Griſtle or Tendrel, as of the Ear or Noſe.</item>
+                     <item>
+                        <hi>Chirurgical:</hi> Belonging to Chirurgery.</item>
+                     <item>
+                        <hi>Colature:</hi> It is taken for any Liquor ſlrained, or ſeparated from its Feculency, Sediment, or more groſs Ingredients.</item>
+                     <item>
+                        <hi>Concoction:</hi> 'Digeſtion.</item>
+                     <item>
+                        <hi>Concretion:</hi> A gathering together or congealing of any ſubstance.</item>
+                     <item>
+                        <hi>Corroborant</hi> or <hi>Corroborative:</hi> Strength<g ref="char:EOLhyphen"/>ening, or confirming.</item>
+                     <item>
+                        <hi>Coſtive:</hi> Bound in Body.</item>
+                     <item>
+                        <hi>Cubit:</hi> The two Bones of the Arm; to wit, The leſſer above called Radius,
+<pb facs="tcp:110147:74"/>reaching from the Shoulder to the Elbow; and larger below called Ulna, reaching from the Elbow to the Wriſt.</item>
+                     <item>
+                        <hi>Dentition:</hi> Breeding of Teeth.</item>
+                     <item>
+                        <hi>Diaphoreticks:</hi> Medicines that diſſolve and ſend forth Humours by Tranſpiration or breathing through the Pores; that is to ſay, ſuch as cauſe or procure Sweat.</item>
+                     <item>
+                        <hi>Digeſtives:</hi> Medicines that concoct, digeſt, or prepare the Humours to be correct<g ref="char:EOLhyphen"/>ed or evacuated.</item>
+                     <item>
+                        <hi>Diureticks:</hi> Medicines that provoke Urine; or cauſe to piſs often.</item>
+                     <item>
+                        <hi>Dolour:</hi> Grief, Pain or Ache.</item>
+                     <item>
+                        <hi>Doſe:</hi> A quantity of Phyſick to be giv<g ref="char:EOLhyphen"/>en at one time.</item>
+                     <item>
+                        <hi>Edulcorated:</hi> Sweetned, or made ſweet with Sugar, Honey, and the like.</item>
+                     <item>
+                        <hi>Emeticks:</hi> Medicines cauſing a Vomit; called alſo Vomitories.</item>
+                     <item>
+                        <hi>Empiticks:</hi> Quacks, Post-doctors, or Mountebanks.</item>
+                     <item>
+                        <hi>Enervation:</hi> A weakning or enfeebling.</item>
+                     <item>
+                        <hi>Epiſpaſtic:</hi> Attractive, or Drawing.</item>
+                     <item>
+                        <hi>Faſciation:</hi> Swathing.</item>
+                     <item>
+                        <hi>Fonticles</hi> or <hi>Fontinels:</hi> Iſſues.</item>
+                     <item>
+                        <hi>Friction:</hi> A rubbing of the Parts.</item>
+                     <pb facs="tcp:110147:74"/>
+                     <item>
+                        <hi>Glandules:</hi> Kernels or ſoft ſpungy Sub<g ref="char:EOLhyphen"/>ſtances in the Body appointed to receive ex<g ref="char:EOLhyphen"/>crementitious humours.</item>
+                     <item>
+                        <hi>Hypnoticks:</hi> Medicines that procure or conciliate Sleep.</item>
+                     <item>
+                        <hi>Hypochondria:</hi> That part of the Belly and Sides under the ſhorts Ribs.</item>
+                     <item>
+                        <hi>Hypotheſis:</hi> The Cauſe, Ground, or Suppoſition, whereon we rely in the framing of an Argument.</item>
+                     <item>
+                        <hi>Intercoſtal Muſcels:</hi> Muſcles placed between the Ribs, in that form as in <hi>Fig. 10.</hi>
+                     </item>
+                     <item>
+                        <hi>Intercoſtal Nerves:</hi> The ninth or laſt Pair of Nerves ſo called becauſe it marches down by the Roots of the Ribs, and betwixt every Rib it receives a Branch from the Spinal Marrow.</item>
+                     <item>
+                        <hi>Jugular Veins:</hi> Certain Veins in the Neck ſo called.</item>
+                     <item>
+                        <hi>Laxative:</hi> Looſening.</item>
+                     <item>
+                        <hi>Liniment:</hi> A ſoft Ointment.</item>
+                     <item>
+                        <hi>Ligature:</hi> Bandage, or Swathing of any I art.</item>
+                     <item>
+                        <hi>Medicament:</hi> A Medicine.</item>
+                     <item>
+                        <hi>Meſenterium:</hi> The Meſentery. It is a membranous Part, ſituate in the mid<g ref="char:EOLhyphen"/>dle of the lower Belly, ſerving not only for conveying ſome Veſſels to the Inteſtines, and
+<pb facs="tcp:110147:75"/>others from them; but alſo it ties most of the Guts together ſo artificially, that for all their manifold Windings they are not entang<g ref="char:EOLhyphen"/>led and confounded. The Veins it contains are called the <hi>Meſaraick Veins.</hi>
+                     </item>
+                     <item>
+                        <hi>Muſcle:</hi> Is a diſſimilar Part, [to wit, whoſe Portions are neither of the ſame Sub<g ref="char:EOLhyphen"/>ſtance, nor the ſame Denomination, for it is compos'd of Fleſh, Nervous Fibres, and a Tendon;] and the proper Inſtrument of Voluntary Motion.</item>
+                     <item>
+                        <hi>Nerve:</hi> It is a ſimple Spermatical part, called a Sinew.</item>
+                     <item>
+                        <hi>Nervous Liquor:</hi> It is the Nutritious Juice of the Nerves.</item>
+                     <item>
+                        <hi>Nutriment</hi> or <hi>Nutrition:</hi> Nouriſhment.</item>
+                     <item>
+                        <hi>Opiates:</hi> Meaicines wherein Opium is an Ingredient; and is often taken for any Medicine that procureth Sleep.</item>
+                     <item>
+                        <hi>Parenchyma:</hi> A fleſhly Subſtance, and chiefly of the Liver, Spleen, and Lights.</item>
+                     <item>
+                        <hi>Peritonaeum:</hi> The inmoſt membranous Coat of the Belly.</item>
+                     <item>
+                        <hi>Phlebotomy:</hi> Breathing of a Vein, or Blood-letting.</item>
+                     <item>
+                        <hi>Phthiſis</hi> or <hi>Phthiſick:</hi> It is properly, a withering away of the whole Body, ariſing
+<pb facs="tcp:110147:75"/>from an Ulcer, or other ill Formation of the Lungs. Dr. <hi>Willis.</hi>
+                     </item>
+                     <item>
+                        <hi>Pleura:</hi> A thin Membrane that inveſt<g ref="char:EOLhyphen"/>eth the Ribs on both ſides.</item>
+                     <item>
+                        <hi>Prognoſtick</hi> A fore knowledge, or under<g ref="char:EOLhyphen"/>ſtanding of the future State of a Diſeaſe, founded on the due conſideration of the preſent State.</item>
+                     <item>
+                        <hi>Pſoas:</hi> Two great Muſcles ſited in the inward part of the Loyns.</item>
+                     <item>
+                        <hi>Purulent:</hi> Mattery, or foul Corruption.</item>
+                     <item>
+                        <hi>Reſpiration:</hi> An Action whereby the Air is received in, and driven forth of the Lungs, called Breathing.</item>
+                     <item>
+                        <hi>Scarification:</hi> A cutting or Lancing.</item>
+                     <item>
+                        <hi>Seroſitv:</hi> Moiſture.</item>
+                     <item>
+                        <hi>Specifics:</hi> Remedies proper to any one peculiar Diſeaſe.</item>
+                     <item>
+                        <hi>Spine:</hi> The Back-bone.</item>
+                     <item>
+                        <hi>Spinalis Medulla:</hi> The Pith of the Back<g ref="char:EOLhyphen"/>bone, called the Spinal Marrow.</item>
+                     <item>
+                        <hi>Sternum:</hi> The Breaſt-bone.</item>
+                     <item>
+                        <hi>Strumae,</hi> and <hi>Strumous Swellings:</hi> Hard Kernels, or Swellings.</item>
+                     <item>
+                        <hi>Tibia:</hi> The Bone of the Leg, called the Shank or Shin-bone.</item>
+                     <item>
+                        <hi>Veneral-Evil:</hi> The French-Pox, or Modiſh Diſeaſe.</item>
+                     <pb facs="tcp:110147:76"/>
+                     <item>
+                        <hi>Ventricle:</hi> The Stomach.</item>
+                     <item>
+                        <hi>Vertebrae</hi> of the Neck. The <hi>7</hi> Bones of the Neck, behind the lowermoſt whereof is joyned to the uppermoſt Vertebrae of the Back, which are in number <hi>12.</hi>
+                     </item>
+                     <item>
+                        <hi>Veſicatories:</hi> Medicines that raiſe Bliſters.</item>
+                     <item>
+                        <hi>Viſcera:</hi> The Bowels, to wit, The Heart, Liver and Lungs.</item>
+                     <item>
+                        <hi>Ung. è Succ. aperitivis:</hi> An Oint<g ref="char:EOLhyphen"/>ment of Opening Juices.</item>
+                  </list>
+               </div>
+               <div type="table_of_contents">
+                  <pb facs="tcp:110147:76"/>
+                  <head>The <hi>Index,</hi> or Table of the <hi>CONTENTS.</hi>
+                  </head>
+                  <p>THE Proëme. <hi>Pag. 1</hi>
+                  </p>
+                  <list>
+                     <label>CHAP. I.</label>
+                     <item>Of the time when, and place where the Diſeaſe <hi>Rhachitis</hi> had it's firſt Riſe, and who are moſt ſubject thereto. <hi>Pag. 3</hi>
+                     </item>
+                     <label>CHAP. II.</label>
+                     <item>Of the Signs or Symptoms of the Diſ<g ref="char:EOLhyphen"/>eaſe. <hi>Pag. 4</hi>
+                     </item>
+                     <label>CHAP. III.</label>
+                     <item>Of the Cauſe of the Diſeaſe: That it conſiſteth not in the naughtineſs of the Blood; nor in the deprav'd Conſtitu<g ref="char:EOLhyphen"/>tion of the Parts. <hi>Pag. 8</hi>
+                     </item>
+                     <pb facs="tcp:110147:77"/>
+                     <label>CHAP. IV.</label>
+                     <item>That the Nerves, as well as the Blood do help to nouriſh, and this Diſeaſe doth peculiarly depend upon the Defect of the Nervous Influx. <hi>Pag. 11</hi>
+                     </item>
+                     <label>CHAP. V.</label>
+                     <item>The Definition or Deſcription of the <hi>Rha<g ref="char:EOLhyphen"/>chitis;</hi> together with the Cauſe thereof: Wherein is ſhewed, that it proceeds not from the faultineſs of the Brain; but from the Obſtruction of the <hi>Spinalis Medulla. Pag. 14</hi>
+                     </item>
+                     <label>CHAP. VI.</label>
+                     <item>The Reaſons of the Symptoms; and firſt, of the too great augmentation of the Head. <hi>Pag. 17</hi>
+                     </item>
+                     <label>CHAP. VII.</label>
+                     <item>Of the Swelling, or puffing up of the <hi>Ab<g ref="char:EOLhyphen"/>domen. Pag. 18</hi>
+                     </item>
+                     <label>CHAP. VIII.</label>
+                     <item>Of Strumous Glandules, or hard
+<pb facs="tcp:110147:77"/>Kernels. <hi>Pag. 20</hi>
+                     </item>
+                     <label>CHAP. IX.</label>
+                     <item>Of the Crookedneſs of the Bones. Dr. <hi>Gliſſon's</hi> Opinion touching the ſame is ſet down. <hi>Pag. 24</hi>
+                     </item>
+                     <label>CHAP. X.</label>
+                     <item>The Author's Opinion <hi>&amp;c. Pag. 28</hi>
+                     </item>
+                     <label>CHAP. XI.</label>
+                     <item>Why the Breaſt grows ſtraight or nar<g ref="char:EOLhyphen"/>row, and acuminated. <hi>Pag. 38</hi>
+                     </item>
+                     <label>CHAP. XII.</label>
+                     <item>Of the <hi>Aſthma,</hi> Purſineſs, or ſhortneſs of Breath. <hi>Pag. 41</hi>
+                     </item>
+                     <label>CHAP. XIII.</label>
+                     <item>From what Cauſe the Imbecillity of the Body doth ariſe. <hi>Pag. 42</hi>
+                     </item>
+                     <label>CHAP. XIV.</label>
+                     <item>Why Elderly Perſons are not molested with this Diſeaſe. <hi>Pag. 44</hi>
+                     </item>
+                     <label>CHAP. XV.</label>
+                     <item>The Prognoſtick of the Diſeaſe. <hi>Pag. 46</hi>
+                     </item>
+                     <pb facs="tcp:110147:78"/>
+                     <label>CHAP. XVI.</label>
+                     <item>The Method of <hi>Curing. Pag. 49</hi>
+                     </item>
+                     <label>CHAP. XVII.</label>
+                     <item>The Uſe of <hi>Clyſters,</hi> and ſome Forms thereof. <hi>Pag. 51</hi>
+                     </item>
+                     <label>CHAP. XVIII.</label>
+                     <item>The Uſe of <hi>Emetics</hi> or Vomitory Medi<g ref="char:EOLhyphen"/>cines, and Forms thereof. <hi>Pag. 55</hi>
+                     </item>
+                     <label>CHAP. XIX.</label>
+                     <item>Some Examples of <hi>Catharticks,</hi> or <hi>Pur<g ref="char:EOLhyphen"/>ging Medicines. Pag. 57</hi>
+                     </item>
+                     <label>CHAP. XX.</label>
+                     <item>Chirurgical Remedies. <hi>Pag. 63</hi>
+                     </item>
+                     <label>CHAP. XXI.</label>
+                     <item>Specific Alteratives. <hi>Pag. 67</hi>
+                     </item>
+                     <label>CHAP. XXII.</label>
+                     <item>Chymical Specifics; alſo of Sweating and Bathing. <hi>Pag. 78</hi>
+                     </item>
+                     <label>CHAP. XXIII.</label>
+                     <item>Of Remedies that correct the Symp<g ref="char:EOLhyphen"/>toms. <hi>Pag. 84</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <label>In the Appendix.</label>
+                     <item>
+                        <list>
+                           <item>Of Medical Weights. <hi>Pag. 1</hi>
+                           </item>
+                           <item>Of Meaſures. <hi>Pag. 12</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+                  <pb facs="tcp:110147:78"/>
+               </div>
+            </back>
+         </text>
+      </group>
+   </text>
+</TEI>
